@@ -1,0 +1,810 @@
+,Nat_Dex,Name,Type,Files
+0,1,Bulbasaur,"[""'Grass'"", ""'Poison'""]",001Bulbasaur.png
+1,2,Ivysaur,"[""'Grass'"", ""'Poison'""]",002Ivysaur.png
+2,3,Venusaur,"[""'Grass'"", ""'Poison'""]",003Venusaur.png
+3,4,Charmander,"[""'Fire'""]",004Charmander.png
+4,5,Charmeleon,"[""'Fire'""]",005Charmeleon.png
+5,6,Charizard,"[""'Fire'"", ""'Flying'""]",006Charizard.png
+6,7,Squirtle,"[""'Water'""]",007Squirtle.png
+7,8,Wartortle,"[""'Water'""]",008Wartortle.png
+8,9,Blastoise,"[""'Water'""]",009Blastoise.png
+9,10,Caterpie,"[""'Bug'""]",010Caterpie.png
+10,11,Metapod,"[""'Bug'""]",011Metapod.png
+11,12,Butterfree,"[""'Bug'"", ""'Flying'""]",012Butterfree.png
+12,13,Weedle,"[""'Bug'"", ""'Poison'""]",013Weedle.png
+13,14,Kakuna,"[""'Bug'"", ""'Poison'""]",014Kakuna.png
+14,15,Beedrill,"[""'Bug'"", ""'Poison'""]",015Beedrill.png
+15,16,Pidgey,"[""'Normal'"", ""'Flying'""]",016Pidgey.png
+16,17,Pidgeotto,"[""'Normal'"", ""'Flying'""]",017Pidgeotto.png
+17,18,Pidgeot,"[""'Normal'"", ""'Flying'""]",018Pidgeot.png
+18,19,Rattata,"[""'Normal'""]",019Rattata.png
+19,20,Raticate,"[""'Normal'""]",020Raticate.png
+20,21,Spearow,"[""'Normal'"", ""'Flying'""]",021Spearow.png
+21,22,Fearow,"[""'Normal'"", ""'Flying'""]",022Fearow.png
+22,23,Ekans,"[""'Poison'""]",023Ekans.png
+23,24,Arbok,"[""'Poison'""]",024Arbok.png
+24,25,Pikachu,"[""'Electric'""]",025Pikachu.png
+25,26,Raichu,"[""'Electric'""]",026Raichu.png
+26,27,Sandshrew,"[""'Ground'""]",027Sandshrew.png
+27,28,Sandslash,"[""'Ground'""]",028Sandslash.png
+28,29,Nidoran♀,"[""'Poison'""]",029Nidoran.png
+29,30,Nidorina,"[""'Poison'""]",030Nidorina.png
+30,31,Nidoqueen,"[""'Poison'"", ""'Ground'""]",031Nidoqueen.png
+31,32,Nidoran♂,"[""'Poison'""]",032Nidoran.png
+32,33,Nidorino,"[""'Poison'""]",033Nidorino.png
+33,34,Nidoking,"[""'Poison'"", ""'Ground'""]",034Nidoking.png
+34,35,Clefairy,"[""'Fairy'""]",035Clefairy.png
+35,36,Clefable,"[""'Fairy'""]",036Clefable.png
+36,37,Vulpix,"[""'Fire'""]",037Vulpix.png
+37,38,Ninetales,"[""'Fire'""]",038Ninetales.png
+38,39,Jigglypuff,"[""'Normal'"", ""'Fairy'""]",039Jigglypuff.png
+39,40,Wigglytuff,"[""'Normal'"", ""'Fairy'""]",040Wigglytuff.png
+40,41,Zubat,"[""'Poison'"", ""'Flying'""]",041Zubat.png
+41,42,Golbat,"[""'Poison'"", ""'Flying'""]",042Golbat.png
+42,43,Oddish,"[""'Grass'"", ""'Poison'""]",043Oddish.png
+43,44,Gloom,"[""'Grass'"", ""'Poison'""]",044Gloom.png
+44,45,Vileplume,"[""'Grass'"", ""'Poison'""]",045Vileplume.png
+45,46,Paras,"[""'Bug'"", ""'Grass'""]",046Paras.png
+46,47,Parasect,"[""'Bug'"", ""'Grass'""]",047Parasect.png
+47,48,Venonat,"[""'Bug'"", ""'Poison'""]",048Venonat.png
+48,49,Venomoth,"[""'Bug'"", ""'Poison'""]",049Venomoth.png
+49,50,Diglett,"[""'Ground'""]",050Diglett.png
+50,51,Dugtrio,"[""'Ground'""]",051Dugtrio.png
+51,52,Meowth,"[""'Normal'""]",052Meowth.png
+52,53,Persian,"[""'Normal'""]",053Persian.png
+53,54,Psyduck,"[""'Water'""]",054Psyduck.png
+54,55,Golduck,"[""'Water'""]",055Golduck.png
+55,56,Mankey,"[""'Fighting'""]",056Mankey.png
+56,57,Primeape,"[""'Fighting'""]",057Primeape.png
+57,58,Growlithe,"[""'Fire'""]",058Growlithe.png
+58,59,Arcanine,"[""'Fire'""]",059Arcanine.png
+59,60,Poliwag,"[""'Water'""]",060Poliwag.png
+60,61,Poliwhirl,"[""'Water'""]",061Poliwhirl.png
+61,62,Poliwrath,"[""'Water'"", ""'Fighting'""]",062Poliwrath.png
+62,63,Abra,"[""'Psychic'""]",063Abra.png
+63,64,Kadabra,"[""'Psychic'""]",064Kadabra.png
+64,65,Alakazam,"[""'Psychic'""]",065Alakazam.png
+65,66,Machop,"[""'Fighting'""]",066Machop.png
+66,67,Machoke,"[""'Fighting'""]",067Machoke.png
+67,68,Machamp,"[""'Fighting'""]",068Machamp.png
+68,69,Bellsprout,"[""'Grass'"", ""'Poison'""]",069Bellsprout.png
+69,70,Weepinbell,"[""'Grass'"", ""'Poison'""]",070Weepinbell.png
+70,71,Victreebel,"[""'Grass'"", ""'Poison'""]",071Victreebel.png
+71,72,Tentacool,"[""'Water'"", ""'Poison'""]",072Tentacool.png
+72,73,Tentacruel,"[""'Water'"", ""'Poison'""]",073Tentacruel.png
+73,74,Geodude,"[""'Rock'"", ""'Ground'""]",074Geodude.png
+74,75,Graveler,"[""'Rock'"", ""'Ground'""]",075Graveler.png
+75,76,Golem,"[""'Rock'"", ""'Ground'""]",076Golem.png
+76,77,Ponyta,"[""'Fire'""]",077Ponyta.png
+77,78,Rapidash,"[""'Fire'""]",078Rapidash.png
+78,79,Slowpoke,"[""'Water'"", ""'Psychic'""]",079Slowpoke.png
+79,80,Slowbro,"[""'Water'"", ""'Psychic'""]",080Slowbro.png
+80,81,Magnemite,"[""'Electric'"", ""'Steel'""]",081Magnemite.png
+81,82,Magneton,"[""'Electric'"", ""'Steel'""]",082Magneton.png
+82,83,Farfetch'd,"[""'Normal'"", ""'Flying'""]",083Farfetch%27d.png
+83,84,Doduo,"[""'Normal'"", ""'Flying'""]",084Doduo.png
+84,85,Dodrio,"[""'Normal'"", ""'Flying'""]",085Dodrio.png
+85,86,Seel,"[""'Water'""]",086Seel.png
+86,87,Dewgong,"[""'Water'"", ""'Ice'""]",087Dewgong.png
+87,88,Grimer,"[""'Poison'""]",088Grimer.png
+88,89,Muk,"[""'Poison'""]",089Muk.png
+89,90,Shellder,"[""'Water'""]",090Shellder.png
+90,91,Cloyster,"[""'Water'"", ""'Ice'""]",091Cloyster.png
+91,92,Gastly,"[""'Ghost'"", ""'Poison'""]",092Gastly.png
+92,93,Haunter,"[""'Ghost'"", ""'Poison'""]",093Haunter.png
+93,94,Gengar,"[""'Ghost'"", ""'Poison'""]",094Gengar.png
+94,95,Onix,"[""'Rock'"", ""'Ground'""]",095Onix.png
+95,96,Drowzee,"[""'Psychic'""]",096Drowzee.png
+96,97,Hypno,"[""'Psychic'""]",097Hypno.png
+97,98,Krabby,"[""'Water'""]",098Krabby.png
+98,99,Kingler,"[""'Water'""]",099Kingler.png
+99,100,Voltorb,"[""'Electric'""]",100Voltorb.png
+100,101,Electrode,"[""'Electric'""]",101Electrode.png
+101,102,Exeggcute,"[""'Grass'"", ""'Psychic'""]",102Exeggcute.png
+102,103,Exeggutor,"[""'Grass'"", ""'Psychic'""]",103Exeggutor.png
+103,104,Cubone,"[""'Ground'""]",104Cubone.png
+104,105,Marowak,"[""'Ground'""]",105Marowak.png
+105,106,Hitmonlee,"[""'Fighting'""]",106Hitmonlee.png
+106,107,Hitmonchan,"[""'Fighting'""]",107Hitmonchan.png
+107,108,Lickitung,"[""'Normal'""]",108Lickitung.png
+108,109,Koffing,"[""'Poison'""]",109Koffing.png
+109,110,Weezing,"[""'Poison'""]",110Weezing.png
+110,111,Rhyhorn,"[""'Ground'"", ""'Rock'""]",111Rhyhorn.png
+111,112,Rhydon,"[""'Ground'"", ""'Rock'""]",112Rhydon.png
+112,113,Chansey,"[""'Normal'""]",113Chansey.png
+113,114,Tangela,"[""'Grass'""]",114Tangela.png
+114,115,Kangaskhan,"[""'Normal'""]",115Kangaskhan.png
+115,116,Horsea,"[""'Water'""]",116Horsea.png
+116,117,Seadra,"[""'Water'""]",117Seadra.png
+117,118,Goldeen,"[""'Water'""]",118Goldeen.png
+118,119,Seaking,"[""'Water'""]",119Seaking.png
+119,120,Staryu,"[""'Water'""]",120Staryu.png
+120,121,Starmie,"[""'Water'"", ""'Psychic'""]",121Starmie.png
+121,122,Mr. Mime,"[""'Psychic'"", ""'Fairy'""]",122Mr._Mime.png
+122,123,Scyther,"[""'Bug'"", ""'Flying'""]",123Scyther.png
+123,124,Jynx,"[""'Ice'"", ""'Psychic'""]",124Jynx.png
+124,125,Electabuzz,"[""'Electric'""]",125Electabuzz.png
+125,126,Magmar,"[""'Fire'""]",126Magmar.png
+126,127,Pinsir,"[""'Bug'""]",127Pinsir.png
+127,128,Tauros,"[""'Normal'""]",128Tauros.png
+128,129,Magikarp,"[""'Water'""]",129Magikarp.png
+129,130,Gyarados,"[""'Water'"", ""'Flying'""]",130Gyarados.png
+130,131,Lapras,"[""'Water'"", ""'Ice'""]",131Lapras.png
+131,132,Ditto,"[""'Normal'""]",132Ditto.png
+132,133,Eevee,"[""'Normal'""]",133Eevee.png
+133,134,Vaporeon,"[""'Water'""]",134Vaporeon.png
+134,135,Jolteon,"[""'Electric'""]",135Jolteon.png
+135,136,Flareon,"[""'Fire'""]",136Flareon.png
+136,137,Porygon,"[""'Normal'""]",137Porygon.png
+137,138,Omanyte,"[""'Rock'"", ""'Water'""]",138Omanyte.png
+138,139,Omastar,"[""'Rock'"", ""'Water'""]",139Omastar.png
+139,140,Kabuto,"[""'Rock'"", ""'Water'""]",140Kabuto.png
+140,141,Kabutops,"[""'Rock'"", ""'Water'""]",141Kabutops.png
+141,142,Aerodactyl,"[""'Rock'"", ""'Flying'""]",142Aerodactyl.png
+142,143,Snorlax,"[""'Normal'""]",143Snorlax.png
+143,144,Articuno,"[""'Ice'"", ""'Flying'""]",144Articuno.png
+144,145,Zapdos,"[""'Electric'"", ""'Flying'""]",145Zapdos.png
+145,146,Moltres,"[""'Fire'"", ""'Flying'""]",146Moltres.png
+146,147,Dratini,"[""'Dragon'""]",147Dratini.png
+147,148,Dragonair,"[""'Dragon'""]",148Dragonair.png
+148,149,Dragonite,"[""'Dragon'"", ""'Flying'""]",149Dragonite.png
+149,150,Mewtwo,"[""'Psychic'""]",150Mewtwo.png
+150,151,Mew,"[""'Psychic'""]",151Mew.png
+151,152,Chikorita,"[""'Grass'""]",152Chikorita.png
+152,153,Bayleef,"[""'Grass'""]",153Bayleef.png
+153,154,Meganium,"[""'Grass'""]",154Meganium.png
+154,155,Cyndaquil,"[""'Fire'""]",155Cyndaquil.png
+155,156,Quilava,"[""'Fire'""]",156Quilava.png
+156,157,Typhlosion,"[""'Fire'""]",157Typhlosion.png
+157,158,Totodile,"[""'Water'""]",158Totodile.png
+158,159,Croconaw,"[""'Water'""]",159Croconaw.png
+159,160,Feraligatr,"[""'Water'""]",160Feraligatr.png
+160,161,Sentret,"[""'Normal'""]",161Sentret.png
+161,162,Furret,"[""'Normal'""]",162Furret.png
+162,163,Hoothoot,"[""'Normal'"", ""'Flying'""]",163Hoothoot.png
+163,164,Noctowl,"[""'Normal'"", ""'Flying'""]",164Noctowl.png
+164,165,Ledyba,"[""'Bug'"", ""'Flying'""]",165Ledyba.png
+165,166,Ledian,"[""'Bug'"", ""'Flying'""]",166Ledian.png
+166,167,Spinarak,"[""'Bug'"", ""'Poison'""]",167Spinarak.png
+167,168,Ariados,"[""'Bug'"", ""'Poison'""]",168Ariados.png
+168,169,Crobat,"[""'Poison'"", ""'Flying'""]",169Crobat.png
+169,170,Chinchou,"[""'Water'"", ""'Electric'""]",170Chinchou.png
+170,171,Lanturn,"[""'Water'"", ""'Electric'""]",171Lanturn.png
+171,172,Pichu,"[""'Electric'""]",172Pichu.png
+172,173,Cleffa,"[""'Fairy'""]",173Cleffa.png
+173,174,Igglybuff,"[""'Normal'"", ""'Fairy'""]",174Igglybuff.png
+174,175,Togepi,"[""'Fairy'""]",175Togepi.png
+175,176,Togetic,"[""'Fairy'"", ""'Flying'""]",176Togetic.png
+176,177,Natu,"[""'Psychic'"", ""'Flying'""]",177Natu.png
+177,178,Xatu,"[""'Psychic'"", ""'Flying'""]",178Xatu.png
+178,179,Mareep,"[""'Electric'""]",179Mareep.png
+179,180,Flaaffy,"[""'Electric'""]",180Flaaffy.png
+180,181,Ampharos,"[""'Electric'""]",181Ampharos.png
+181,182,Bellossom,"[""'Grass'""]",182Bellossom.png
+182,183,Marill,"[""'Water'"", ""'Fairy'""]",183Marill.png
+183,184,Azumarill,"[""'Water'"", ""'Fairy'""]",184Azumarill.png
+184,185,Sudowoodo,"[""'Rock'""]",185Sudowoodo.png
+185,186,Politoed,"[""'Water'""]",186Politoed.png
+186,187,Hoppip,"[""'Grass'"", ""'Flying'""]",187Hoppip.png
+187,188,Skiploom,"[""'Grass'"", ""'Flying'""]",188Skiploom.png
+188,189,Jumpluff,"[""'Grass'"", ""'Flying'""]",189Jumpluff.png
+189,190,Aipom,"[""'Normal'""]",190Aipom.png
+190,191,Sunkern,"[""'Grass'""]",191Sunkern.png
+191,192,Sunflora,"[""'Grass'""]",192Sunflora.png
+192,193,Yanma,"[""'Bug'"", ""'Flying'""]",193Yanma.png
+193,194,Wooper,"[""'Water'"", ""'Ground'""]",194Wooper.png
+194,195,Quagsire,"[""'Water'"", ""'Ground'""]",195Quagsire.png
+195,196,Espeon,"[""'Psychic'""]",196Espeon.png
+196,197,Umbreon,"[""'Dark'""]",197Umbreon.png
+197,198,Murkrow,"[""'Dark'"", ""'Flying'""]",198Murkrow.png
+198,199,Slowking,"[""'Water'"", ""'Psychic'""]",199Slowking.png
+199,200,Misdreavus,"[""'Ghost'""]",200Misdreavus.png
+200,201,Unown,"[""'Psychic'""]",201Unown.png
+201,202,Wobbuffet,"[""'Psychic'""]",202Wobbuffet.png
+202,203,Girafarig,"[""'Normal'"", ""'Psychic'""]",203Girafarig.png
+203,204,Pineco,"[""'Bug'""]",204Pineco.png
+204,205,Forretress,"[""'Bug'"", ""'Steel'""]",205Forretress.png
+205,206,Dunsparce,"[""'Normal'""]",206Dunsparce.png
+206,207,Gligar,"[""'Ground'"", ""'Flying'""]",207Gligar.png
+207,208,Steelix,"[""'Steel'"", ""'Ground'""]",208Steelix.png
+208,209,Snubbull,"[""'Fairy'""]",209Snubbull.png
+209,210,Granbull,"[""'Fairy'""]",210Granbull.png
+210,211,Qwilfish,"[""'Water'"", ""'Poison'""]",211Qwilfish.png
+211,212,Scizor,"[""'Bug'"", ""'Steel'""]",212Scizor.png
+212,213,Shuckle,"[""'Bug'"", ""'Rock'""]",213Shuckle.png
+213,214,Heracross,"[""'Bug'"", ""'Fighting'""]",214Heracross.png
+214,215,Sneasel,"[""'Dark'"", ""'Ice'""]",215Sneasel.png
+215,216,Teddiursa,"[""'Normal'""]",216Teddiursa.png
+216,217,Ursaring,"[""'Normal'""]",217Ursaring.png
+217,218,Slugma,"[""'Fire'""]",218Slugma.png
+218,219,Magcargo,"[""'Fire'"", ""'Rock'""]",219Magcargo.png
+219,220,Swinub,"[""'Ice'"", ""'Ground'""]",220Swinub.png
+220,221,Piloswine,"[""'Ice'"", ""'Ground'""]",221Piloswine.png
+221,222,Corsola,"[""'Water'"", ""'Rock'""]",222Corsola.png
+222,223,Remoraid,"[""'Water'""]",223Remoraid.png
+223,224,Octillery,"[""'Water'""]",224Octillery.png
+224,225,Delibird,"[""'Ice'"", ""'Flying'""]",225Delibird.png
+225,226,Mantine,"[""'Water'"", ""'Flying'""]",226Mantine.png
+226,227,Skarmory,"[""'Steel'"", ""'Flying'""]",227Skarmory.png
+227,228,Houndour,"[""'Dark'"", ""'Fire'""]",228Houndour.png
+228,229,Houndoom,"[""'Dark'"", ""'Fire'""]",229Houndoom.png
+229,230,Kingdra,"[""'Water'"", ""'Dragon'""]",230Kingdra.png
+230,231,Phanpy,"[""'Ground'""]",231Phanpy.png
+231,232,Donphan,"[""'Ground'""]",232Donphan.png
+232,233,Porygon2,"[""'Normal'""]",233Porygon2.png
+233,234,Stantler,"[""'Normal'""]",234Stantler.png
+234,235,Smeargle,"[""'Normal'""]",235Smeargle.png
+235,236,Tyrogue,"[""'Fighting'""]",236Tyrogue.png
+236,237,Hitmontop,"[""'Fighting'""]",237Hitmontop.png
+237,238,Smoochum,"[""'Ice'"", ""'Psychic'""]",238Smoochum.png
+238,239,Elekid,"[""'Electric'""]",239Elekid.png
+239,240,Magby,"[""'Fire'""]",240Magby.png
+240,241,Miltank,"[""'Normal'""]",241Miltank.png
+241,242,Blissey,"[""'Normal'""]",242Blissey.png
+242,243,Raikou,"[""'Electric'""]",243Raikou.png
+243,244,Entei,"[""'Fire'""]",244Entei.png
+244,245,Suicune,"[""'Water'""]",245Suicune.png
+245,246,Larvitar,"[""'Rock'"", ""'Ground'""]",246Larvitar.png
+246,247,Pupitar,"[""'Rock'"", ""'Ground'""]",247Pupitar.png
+247,248,Tyranitar,"[""'Rock'"", ""'Dark'""]",248Tyranitar.png
+248,249,Lugia,"[""'Psychic'"", ""'Flying'""]",249Lugia.png
+249,250,Ho-Oh,"[""'Fire'"", ""'Flying'""]",250Ho-Oh.png
+250,251,Celebi,"[""'Psychic'"", ""'Grass'""]",251Celebi.png
+251,252,Treecko,"[""'Grass'""]",252Treecko.png
+252,253,Grovyle,"[""'Grass'""]",253Grovyle.png
+253,254,Sceptile,"[""'Grass'""]",254Sceptile.png
+254,255,Torchic,"[""'Fire'""]",255Torchic.png
+255,256,Combusken,"[""'Fire'"", ""'Fighting'""]",256Combusken.png
+256,257,Blaziken,"[""'Fire'"", ""'Fighting'""]",257Blaziken.png
+257,258,Mudkip,"[""'Water'""]",258Mudkip.png
+258,259,Marshtomp,"[""'Water'"", ""'Ground'""]",259Marshtomp.png
+259,260,Swampert,"[""'Water'"", ""'Ground'""]",260Swampert.png
+260,261,Poochyena,"[""'Dark'""]",261Poochyena.png
+261,262,Mightyena,"[""'Dark'""]",262Mightyena.png
+262,263,Zigzagoon,"[""'Normal'""]",263Zigzagoon.png
+263,264,Linoone,"[""'Normal'""]",264Linoone.png
+264,265,Wurmple,"[""'Bug'""]",265Wurmple.png
+265,266,Silcoon,"[""'Bug'""]",266Silcoon.png
+266,267,Beautifly,"[""'Bug'"", ""'Flying'""]",267Beautifly.png
+267,268,Cascoon,"[""'Bug'""]",268Cascoon.png
+268,269,Dustox,"[""'Bug'"", ""'Poison'""]",269Dustox.png
+269,270,Lotad,"[""'Water'"", ""'Grass'""]",270Lotad.png
+270,271,Lombre,"[""'Water'"", ""'Grass'""]",271Lombre.png
+271,272,Ludicolo,"[""'Water'"", ""'Grass'""]",272Ludicolo.png
+272,273,Seedot,"[""'Grass'""]",273Seedot.png
+273,274,Nuzleaf,"[""'Grass'"", ""'Dark'""]",274Nuzleaf.png
+274,275,Shiftry,"[""'Grass'"", ""'Dark'""]",275Shiftry.png
+275,276,Taillow,"[""'Normal'"", ""'Flying'""]",276Taillow.png
+276,277,Swellow,"[""'Normal'"", ""'Flying'""]",277Swellow.png
+277,278,Wingull,"[""'Water'"", ""'Flying'""]",278Wingull.png
+278,279,Pelipper,"[""'Water'"", ""'Flying'""]",279Pelipper.png
+279,280,Ralts,"[""'Psychic'"", ""'Fairy'""]",280Ralts.png
+280,281,Kirlia,"[""'Psychic'"", ""'Fairy'""]",281Kirlia.png
+281,282,Gardevoir,"[""'Psychic'"", ""'Fairy'""]",282Gardevoir.png
+282,283,Surskit,"[""'Bug'"", ""'Water'""]",283Surskit.png
+283,284,Masquerain,"[""'Bug'"", ""'Flying'""]",284Masquerain.png
+284,285,Shroomish,"[""'Grass'""]",285Shroomish.png
+285,286,Breloom,"[""'Grass'"", ""'Fighting'""]",286Breloom.png
+286,287,Slakoth,"[""'Normal'""]",287Slakoth.png
+287,288,Vigoroth,"[""'Normal'""]",288Vigoroth.png
+288,289,Slaking,"[""'Normal'""]",289Slaking.png
+289,290,Nincada,"[""'Bug'"", ""'Ground'""]",290Nincada.png
+290,291,Ninjask,"[""'Bug'"", ""'Flying'""]",291Ninjask.png
+291,292,Shedinja,"[""'Bug'"", ""'Ghost'""]",292Shedinja.png
+292,293,Whismur,"[""'Normal'""]",293Whismur.png
+293,294,Loudred,"[""'Normal'""]",294Loudred.png
+294,295,Exploud,"[""'Normal'""]",295Exploud.png
+295,296,Makuhita,"[""'Fighting'""]",296Makuhita.png
+296,297,Hariyama,"[""'Fighting'""]",297Hariyama.png
+297,298,Azurill,"[""'Normal'"", ""'Fairy'""]",298Azurill.png
+298,299,Nosepass,"[""'Rock'""]",299Nosepass.png
+299,300,Skitty,"[""'Normal'""]",300Skitty.png
+300,301,Delcatty,"[""'Normal'""]",301Delcatty.png
+301,302,Sableye,"[""'Dark'"", ""'Ghost'""]",302Sableye.png
+302,303,Mawile,"[""'Steel'"", ""'Fairy'""]",303Mawile.png
+303,304,Aron,"[""'Steel'"", ""'Rock'""]",304Aron.png
+304,305,Lairon,"[""'Steel'"", ""'Rock'""]",305Lairon.png
+305,306,Aggron,"[""'Steel'"", ""'Rock'""]",306Aggron.png
+306,307,Meditite,"[""'Fighting'"", ""'Psychic'""]",307Meditite.png
+307,308,Medicham,"[""'Fighting'"", ""'Psychic'""]",308Medicham.png
+308,309,Electrike,"[""'Electric'""]",309Electrike.png
+309,310,Manectric,"[""'Electric'""]",310Manectric.png
+310,311,Plusle,"[""'Electric'""]",311Plusle.png
+311,312,Minun,"[""'Electric'""]",312Minun.png
+312,313,Volbeat,"[""'Bug'""]",313Volbeat.png
+313,314,Illumise,"[""'Bug'""]",314Illumise.png
+314,315,Roselia,"[""'Grass'"", ""'Poison'""]",315Roselia.png
+315,316,Gulpin,"[""'Poison'""]",316Gulpin.png
+316,317,Swalot,"[""'Poison'""]",317Swalot.png
+317,318,Carvanha,"[""'Water'"", ""'Dark'""]",318Carvanha.png
+318,319,Sharpedo,"[""'Water'"", ""'Dark'""]",319Sharpedo.png
+319,320,Wailmer,"[""'Water'""]",320Wailmer.png
+320,321,Wailord,"[""'Water'""]",321Wailord.png
+321,322,Numel,"[""'Fire'"", ""'Ground'""]",322Numel.png
+322,323,Camerupt,"[""'Fire'"", ""'Ground'""]",323Camerupt.png
+323,324,Torkoal,"[""'Fire'""]",324Torkoal.png
+324,325,Spoink,"[""'Psychic'""]",325Spoink.png
+325,326,Grumpig,"[""'Psychic'""]",326Grumpig.png
+326,327,Spinda,"[""'Normal'""]",327Spinda.png
+327,328,Trapinch,"[""'Ground'""]",328Trapinch.png
+328,329,Vibrava,"[""'Ground'"", ""'Dragon'""]",329Vibrava.png
+329,330,Flygon,"[""'Ground'"", ""'Dragon'""]",330Flygon.png
+330,331,Cacnea,"[""'Grass'""]",331Cacnea.png
+331,332,Cacturne,"[""'Grass'"", ""'Dark'""]",332Cacturne.png
+332,333,Swablu,"[""'Normal'"", ""'Flying'""]",333Swablu.png
+333,334,Altaria,"[""'Dragon'"", ""'Flying'""]",334Altaria.png
+334,335,Zangoose,"[""'Normal'""]",335Zangoose.png
+335,336,Seviper,"[""'Poison'""]",336Seviper.png
+336,337,Lunatone,"[""'Rock'"", ""'Psychic'""]",337Lunatone.png
+337,338,Solrock,"[""'Rock'"", ""'Psychic'""]",338Solrock.png
+338,339,Barboach,"[""'Water'"", ""'Ground'""]",339Barboach.png
+339,340,Whiscash,"[""'Water'"", ""'Ground'""]",340Whiscash.png
+340,341,Corphish,"[""'Water'""]",341Corphish.png
+341,342,Crawdaunt,"[""'Water'"", ""'Dark'""]",342Crawdaunt.png
+342,343,Baltoy,"[""'Ground'"", ""'Psychic'""]",343Baltoy.png
+343,344,Claydol,"[""'Ground'"", ""'Psychic'""]",344Claydol.png
+344,345,Lileep,"[""'Rock'"", ""'Grass'""]",345Lileep.png
+345,346,Cradily,"[""'Rock'"", ""'Grass'""]",346Cradily.png
+346,347,Anorith,"[""'Rock'"", ""'Bug'""]",347Anorith.png
+347,348,Armaldo,"[""'Rock'"", ""'Bug'""]",348Armaldo.png
+348,349,Feebas,"[""'Water'""]",349Feebas.png
+349,350,Milotic,"[""'Water'""]",350Milotic.png
+350,351,Castform,"[""'Normal'""]",351Castform.png
+351,352,Kecleon,"[""'Normal'""]",352Kecleon.png
+352,353,Shuppet,"[""'Ghost'""]",353Shuppet.png
+353,354,Banette,"[""'Ghost'""]",354Banette.png
+354,355,Duskull,"[""'Ghost'""]",355Duskull.png
+355,356,Dusclops,"[""'Ghost'""]",356Dusclops.png
+356,357,Tropius,"[""'Grass'"", ""'Flying'""]",357Tropius.png
+357,358,Chimecho,"[""'Psychic'""]",358Chimecho.png
+358,359,Absol,"[""'Dark'""]",359Absol.png
+359,360,Wynaut,"[""'Psychic'""]",360Wynaut.png
+360,361,Snorunt,"[""'Ice'""]",361Snorunt.png
+361,362,Glalie,"[""'Ice'""]",362Glalie.png
+362,363,Spheal,"[""'Ice'"", ""'Water'""]",363Spheal.png
+363,364,Sealeo,"[""'Ice'"", ""'Water'""]",364Sealeo.png
+364,365,Walrein,"[""'Ice'"", ""'Water'""]",365Walrein.png
+365,366,Clamperl,"[""'Water'""]",366Clamperl.png
+366,367,Huntail,"[""'Water'""]",367Huntail.png
+367,368,Gorebyss,"[""'Water'""]",368Gorebyss.png
+368,369,Relicanth,"[""'Water'"", ""'Rock'""]",369Relicanth.png
+369,370,Luvdisc,"[""'Water'""]",370Luvdisc.png
+370,371,Bagon,"[""'Dragon'""]",371Bagon.png
+371,372,Shelgon,"[""'Dragon'""]",372Shelgon.png
+372,373,Salamence,"[""'Dragon'"", ""'Flying'""]",373Salamence.png
+373,374,Beldum,"[""'Steel'"", ""'Psychic'""]",374Beldum.png
+374,375,Metang,"[""'Steel'"", ""'Psychic'""]",375Metang.png
+375,376,Metagross,"[""'Steel'"", ""'Psychic'""]",376Metagross.png
+376,377,Regirock,"[""'Rock'""]",377Regirock.png
+377,378,Regice,"[""'Ice'""]",378Regice.png
+378,379,Registeel,"[""'Steel'""]",379Registeel.png
+379,380,Latias,"[""'Dragon'"", ""'Psychic'""]",380Latias.png
+380,381,Latios,"[""'Dragon'"", ""'Psychic'""]",381Latios.png
+381,382,Kyogre,"[""'Water'""]",382Kyogre.png
+382,383,Groudon,"[""'Ground'""]",383Groudon.png
+383,384,Rayquaza,"[""'Dragon'"", ""'Flying'""]",384Rayquaza.png
+384,385,Jirachi,"[""'Steel'"", ""'Psychic'""]",385Jirachi.png
+385,386,Deoxys,"[""'Psychic'""]",386Deoxys.png
+386,387,Turtwig,"[""'Grass'""]",387Turtwig.png
+387,388,Grotle,"[""'Grass'""]",388Grotle.png
+388,389,Torterra,"[""'Grass'"", ""'Ground'""]",389Torterra.png
+389,390,Chimchar,"[""'Fire'""]",390Chimchar.png
+390,391,Monferno,"[""'Fire'"", ""'Fighting'""]",391Monferno.png
+391,392,Infernape,"[""'Fire'"", ""'Fighting'""]",392Infernape.png
+392,393,Piplup,"[""'Water'""]",393Piplup.png
+393,394,Prinplup,"[""'Water'""]",394Prinplup.png
+394,395,Empoleon,"[""'Water'"", ""'Steel'""]",395Empoleon.png
+395,396,Starly,"[""'Normal'"", ""'Flying'""]",396Starly.png
+396,397,Staravia,"[""'Normal'"", ""'Flying'""]",397Staravia.png
+397,398,Staraptor,"[""'Normal'"", ""'Flying'""]",398Staraptor.png
+398,399,Bidoof,"[""'Normal'""]",399Bidoof.png
+399,400,Bibarel,"[""'Normal'"", ""'Water'""]",400Bibarel.png
+400,401,Kricketot,"[""'Bug'""]",401Kricketot.png
+401,402,Kricketune,"[""'Bug'""]",402Kricketune.png
+402,403,Shinx,"[""'Electric'""]",403Shinx.png
+403,404,Luxio,"[""'Electric'""]",404Luxio.png
+404,405,Luxray,"[""'Electric'""]",405Luxray.png
+405,406,Budew,"[""'Grass'"", ""'Poison'""]",406Budew.png
+406,407,Roserade,"[""'Grass'"", ""'Poison'""]",407Roserade.png
+407,408,Cranidos,"[""'Rock'""]",408Cranidos.png
+408,409,Rampardos,"[""'Rock'""]",409Rampardos.png
+409,410,Shieldon,"[""'Rock'"", ""'Steel'""]",410Shieldon.png
+410,411,Bastiodon,"[""'Rock'"", ""'Steel'""]",411Bastiodon.png
+411,412,Burmy,"[""'Bug'""]",412Burmy-Plant.png
+412,413,Wormadam,"[""'Bug'"", ""'Grass'""]",413Wormadam-Plant.png
+413,414,Mothim,"[""'Bug'"", ""'Flying'""]",414Mothim.png
+414,415,Combee,"[""'Bug'"", ""'Flying'""]",415Combee.png
+415,416,Vespiquen,"[""'Bug'"", ""'Flying'""]",416Vespiquen.png
+416,417,Pachirisu,"[""'Electric'""]",417Pachirisu.png
+417,418,Buizel,"[""'Water'""]",418Buizel.png
+418,419,Floatzel,"[""'Water'""]",419Floatzel.png
+419,420,Cherubi,"[""'Grass'""]",420Cherubi.png
+420,421,Cherrim,"[""'Grass'""]",421Cherrim-Overcast.png
+421,422,Shellos,"[""'Water'""]",422Shellos.png
+422,423,Gastrodon,"[""'Water'"", ""'Ground'""]",423Gastrodon.png
+423,424,Ambipom,"[""'Normal'""]",424Ambipom.png
+424,425,Drifloon,"[""'Ghost'"", ""'Flying'""]",425Drifloon.png
+425,426,Drifblim,"[""'Ghost'"", ""'Flying'""]",426Drifblim.png
+426,427,Buneary,"[""'Normal'""]",427Buneary.png
+427,428,Lopunny,"[""'Normal'""]",428Lopunny.png
+428,429,Mismagius,"[""'Ghost'""]",429Mismagius.png
+429,430,Honchkrow,"[""'Dark'"", ""'Flying'""]",430Honchkrow.png
+430,431,Glameow,"[""'Normal'""]",431Glameow.png
+431,432,Purugly,"[""'Normal'""]",432Purugly.png
+432,433,Chingling,"[""'Psychic'""]",433Chingling.png
+433,434,Stunky,"[""'Poison'"", ""'Dark'""]",434Stunky.png
+434,435,Skuntank,"[""'Poison'"", ""'Dark'""]",435Skuntank.png
+435,436,Bronzor,"[""'Steel'"", ""'Psychic'""]",436Bronzor.png
+436,437,Bronzong,"[""'Steel'"", ""'Psychic'""]",437Bronzong.png
+437,438,Bonsly,"[""'Rock'""]",438Bonsly.png
+438,439,Mime Jr.,"[""'Psychic'"", ""'Fairy'""]",439Mime_Jr.png
+439,440,Happiny,"[""'Normal'""]",440Happiny.png
+440,441,Chatot,"[""'Normal'"", ""'Flying'""]",441Chatot.png
+441,442,Spiritomb,"[""'Ghost'"", ""'Dark'""]",442Spiritomb.png
+442,443,Gible,"[""'Dragon'"", ""'Ground'""]",443Gible.png
+443,444,Gabite,"[""'Dragon'"", ""'Ground'""]",444Gabite.png
+444,445,Garchomp,"[""'Dragon'"", ""'Ground'""]",445Garchomp.png
+445,446,Munchlax,"[""'Normal'""]",446Munchlax.png
+446,447,Riolu,"[""'Fighting'""]",447Riolu.png
+447,448,Lucario,"[""'Fighting'"", ""'Steel'""]",448Lucario.png
+448,449,Hippopotas,"[""'Ground'""]",449Hippopotas.png
+449,450,Hippowdon,"[""'Ground'""]",450Hippowdon.png
+450,451,Skorupi,"[""'Poison'"", ""'Bug'""]",451Skorupi.png
+451,452,Drapion,"[""'Poison'"", ""'Dark'""]",452Drapion.png
+452,453,Croagunk,"[""'Poison'"", ""'Fighting'""]",453Croagunk.png
+453,454,Toxicroak,"[""'Poison'"", ""'Fighting'""]",454Toxicroak.png
+454,455,Carnivine,"[""'Grass'""]",455Carnivine.png
+455,456,Finneon,"[""'Water'""]",456Finneon.png
+456,457,Lumineon,"[""'Water'""]",457Lumineon.png
+457,458,Mantyke,"[""'Water'"", ""'Flying'""]",458Mantyke.png
+458,459,Snover,"[""'Grass'"", ""'Ice'""]",459Snover.png
+459,460,Abomasnow,"[""'Grass'"", ""'Ice'""]",460Abomasnow.png
+460,461,Weavile,"[""'Dark'"", ""'Ice'""]",461Weavile.png
+461,462,Magnezone,"[""'Electric'"", ""'Steel'""]",462Magnezone.png
+462,463,Lickilicky,"[""'Normal'""]",463Lickilicky.png
+463,464,Rhyperior,"[""'Ground'"", ""'Rock'""]",464Rhyperior.png
+464,465,Tangrowth,"[""'Grass'""]",465Tangrowth.png
+465,466,Electivire,"[""'Electric'""]",466Electivire.png
+466,467,Magmortar,"[""'Fire'""]",467Magmortar.png
+467,468,Togekiss,"[""'Fairy'"", ""'Flying'""]",468Togekiss.png
+468,469,Yanmega,"[""'Bug'"", ""'Flying'""]",469Yanmega.png
+469,470,Leafeon,"[""'Grass'""]",470Leafeon.png
+470,471,Glaceon,"[""'Ice'""]",471Glaceon.png
+471,472,Gliscor,"[""'Ground'"", ""'Flying'""]",472Gliscor.png
+472,473,Mamoswine,"[""'Ice'"", ""'Ground'""]",473Mamoswine.png
+473,474,Porygon-Z,"[""'Normal'""]",474Porygon-Z.png
+474,475,Gallade,"[""'Psychic'"", ""'Fighting'""]",475Gallade.png
+475,476,Probopass,"[""'Rock'"", ""'Steel'""]",476Probopass.png
+476,477,Dusknoir,"[""'Ghost'""]",477Dusknoir.png
+477,478,Froslass,"[""'Ice'"", ""'Ghost'""]",478Froslass.png
+478,479,Rotom,"[""'Electric'"", ""'Ghost'""]",479Rotom.png
+479,480,Uxie,"[""'Psychic'""]",480Uxie.png
+480,481,Mesprit,"[""'Psychic'""]",481Mesprit.png
+481,482,Azelf,"[""'Psychic'""]",482Azelf.png
+482,483,Dialga,"[""'Steel'"", ""'Dragon'""]",483Dialga.png
+483,484,Palkia,"[""'Water'"", ""'Dragon'""]",484Palkia.png
+484,485,Heatran,"[""'Fire'"", ""'Steel'""]",485Heatran.png
+485,486,Regigigas,"[""'Normal'""]",486Regigigas.png
+486,487,Giratina,"[""'Ghost'"", ""'Dragon'""]",487Giratina-Altered.png
+487,488,Cresselia,"[""'Psychic'""]",488Cresselia.png
+488,489,Phione,"[""'Water'""]",489Phione.png
+489,490,Manaphy,"[""'Water'""]",490Manaphy.png
+490,491,Darkrai,"[""'Dark'""]",491Darkrai.png
+491,492,Shaymin,"[""'Grass'""]",492Shaymin-Land.png
+492,493,Arceus,"[""'Normal'""]",493Arceus.png
+493,494,Victini,"[""'Psychic'"", ""'Fire'""]",494Victini.png
+494,495,Snivy,"[""'Grass'""]",495Snivy.png
+495,496,Servine,"[""'Grass'""]",496Servine.png
+496,497,Serperior,"[""'Grass'""]",497Serperior.png
+497,498,Tepig,"[""'Fire'""]",498Tepig.png
+498,499,Pignite,"[""'Fire'"", ""'Fighting'""]",499Pignite.png
+499,500,Emboar,"[""'Fire'"", ""'Fighting'""]",500Emboar.png
+500,501,Oshawott,"[""'Water'""]",501Oshawott.png
+501,502,Dewott,"[""'Water'""]",502Dewott.png
+502,503,Samurott,"[""'Water'""]",503Samurott.png
+503,504,Patrat,"[""'Normal'""]",504Patrat.png
+504,505,Watchog,"[""'Normal'""]",505Watchog.png
+505,506,Lillipup,"[""'Normal'""]",506Lillipup.png
+506,507,Herdier,"[""'Normal'""]",507Herdier.png
+507,508,Stoutland,"[""'Normal'""]",508Stoutland.png
+508,509,Purrloin,"[""'Dark'""]",509Purrloin.png
+509,510,Liepard,"[""'Dark'""]",510Liepard.png
+510,511,Pansage,"[""'Grass'""]",511Pansage.png
+511,512,Simisage,"[""'Grass'""]",512Simisage.png
+512,513,Pansear,"[""'Fire'""]",513Pansear.png
+513,514,Simisear,"[""'Fire'""]",514Simisear.png
+514,515,Panpour,"[""'Water'""]",515Panpour.png
+515,516,Simipour,"[""'Water'""]",516Simipour.png
+516,517,Munna,"[""'Psychic'""]",517Munna.png
+517,518,Musharna,"[""'Psychic'""]",518Musharna.png
+518,519,Pidove,"[""'Normal'"", ""'Flying'""]",519Pidove.png
+519,520,Tranquill,"[""'Normal'"", ""'Flying'""]",520Tranquill.png
+520,521,Unfezant,"[""'Normal'"", ""'Flying'""]",521Unfezant.png
+521,522,Blitzle,"[""'Electric'""]",522Blitzle.png
+522,523,Zebstrika,"[""'Electric'""]",523Zebstrika.png
+523,524,Roggenrola,"[""'Rock'""]",524Roggenrola.png
+524,525,Boldore,"[""'Rock'""]",525Boldore.png
+525,526,Gigalith,"[""'Rock'""]",526Gigalith.png
+526,527,Woobat,"[""'Psychic'"", ""'Flying'""]",527Woobat.png
+527,528,Swoobat,"[""'Psychic'"", ""'Flying'""]",528Swoobat.png
+528,529,Drilbur,"[""'Ground'""]",529Drilbur.png
+529,530,Excadrill,"[""'Ground'"", ""'Steel'""]",530Excadrill.png
+530,531,Audino,"[""'Normal'""]",531Audino.png
+531,532,Timburr,"[""'Fighting'""]",532Timburr.png
+532,533,Gurdurr,"[""'Fighting'""]",533Gurdurr.png
+533,534,Conkeldurr,"[""'Fighting'""]",534Conkeldurr.png
+534,535,Tympole,"[""'Water'""]",535Tympole.png
+535,536,Palpitoad,"[""'Water'"", ""'Ground'""]",536Palpitoad.png
+536,537,Seismitoad,"[""'Water'"", ""'Ground'""]",537Seismitoad.png
+537,538,Throh,"[""'Fighting'""]",538Throh.png
+538,539,Sawk,"[""'Fighting'""]",539Sawk.png
+539,540,Sewaddle,"[""'Bug'"", ""'Grass'""]",540Sewaddle.png
+540,541,Swadloon,"[""'Bug'"", ""'Grass'""]",541Swadloon.png
+541,542,Leavanny,"[""'Bug'"", ""'Grass'""]",542Leavanny.png
+542,543,Venipede,"[""'Bug'"", ""'Poison'""]",543Venipede.png
+543,544,Whirlipede,"[""'Bug'"", ""'Poison'""]",544Whirlipede.png
+544,545,Scolipede,"[""'Bug'"", ""'Poison'""]",545Scolipede.png
+545,546,Cottonee,"[""'Grass'"", ""'Fairy'""]",546Cottonee.png
+546,547,Whimsicott,"[""'Grass'"", ""'Fairy'""]",547Whimsicott.png
+547,548,Petilil,"[""'Grass'""]",548Petilil.png
+548,549,Lilligant,"[""'Grass'""]",549Lilligant.png
+549,550,Basculin,"[""'Water'""]",550Basculin.png
+550,551,Sandile,"[""'Ground'"", ""'Dark'""]",551Sandile.png
+551,552,Krokorok,"[""'Ground'"", ""'Dark'""]",552Krokorok.png
+552,553,Krookodile,"[""'Ground'"", ""'Dark'""]",553Krookodile.png
+553,554,Darumaka,"[""'Fire'""]",554Darumaka.png
+554,555,Darmanitan,"[""'Fire'""]",555Darmanitan.png
+555,556,Maractus,"[""'Grass'""]",556Maractus.png
+556,557,Dwebble,"[""'Bug'"", ""'Rock'""]",557Dwebble.png
+557,558,Crustle,"[""'Bug'"", ""'Rock'""]",558Crustle.png
+558,559,Scraggy,"[""'Dark'"", ""'Fighting'""]",559Scraggy.png
+559,560,Scrafty,"[""'Dark'"", ""'Fighting'""]",560Scrafty.png
+560,561,Sigilyph,"[""'Psychic'"", ""'Flying'""]",561Sigilyph.png
+561,562,Yamask,"[""'Ghost'""]",562Yamask.png
+562,563,Cofagrigus,"[""'Ghost'""]",563Cofagrigus.png
+563,564,Tirtouga,"[""'Water'"", ""'Rock'""]",564Tirtouga.png
+564,565,Carracosta,"[""'Water'"", ""'Rock'""]",565Carracosta.png
+565,566,Archen,"[""'Rock'"", ""'Flying'""]",566Archen.png
+566,567,Archeops,"[""'Rock'"", ""'Flying'""]",567Archeops.png
+567,568,Trubbish,"[""'Poison'""]",568Trubbish.png
+568,569,Garbodor,"[""'Poison'""]",569Garbodor.png
+569,570,Zorua,"[""'Dark'""]",570Zorua.png
+570,571,Zoroark,"[""'Dark'""]",571Zoroark.png
+571,572,Minccino,"[""'Normal'""]",572Minccino.png
+572,573,Cinccino,"[""'Normal'""]",573Cinccino.png
+573,574,Gothita,"[""'Psychic'""]",574Gothita.png
+574,575,Gothorita,"[""'Psychic'""]",575Gothorita.png
+575,576,Gothitelle,"[""'Psychic'""]",576Gothitelle.png
+576,577,Solosis,"[""'Psychic'""]",577Solosis.png
+577,578,Duosion,"[""'Psychic'""]",578Duosion.png
+578,579,Reuniclus,"[""'Psychic'""]",579Reuniclus.png
+579,580,Ducklett,"[""'Water'"", ""'Flying'""]",580Ducklett.png
+580,581,Swanna,"[""'Water'"", ""'Flying'""]",581Swanna.png
+581,582,Vanillite,"[""'Ice'""]",582Vanillite.png
+582,583,Vanillish,"[""'Ice'""]",583Vanillish.png
+583,584,Vanilluxe,"[""'Ice'""]",584Vanilluxe.png
+584,585,Deerling,"[""'Normal'"", ""'Grass'""]",585Deerling-Spring.png
+585,586,Sawsbuck,"[""'Normal'"", ""'Grass'""]",586Sawsbuck-Spring.png
+586,587,Emolga,"[""'Electric'"", ""'Flying'""]",587Emolga.png
+587,588,Karrablast,"[""'Bug'""]",588Karrablast.png
+588,589,Escavalier,"[""'Bug'"", ""'Steel'""]",589Escavalier.png
+589,590,Foongus,"[""'Grass'"", ""'Poison'""]",590Foongus.png
+590,591,Amoonguss,"[""'Grass'"", ""'Poison'""]",591Amoonguss.png
+591,592,Frillish,"[""'Water'"", ""'Ghost'""]",592Frillish.png
+592,593,Jellicent,"[""'Water'"", ""'Ghost'""]",593Jellicent.png
+593,594,Alomomola,"[""'Water'""]",594Alomomola.png
+594,595,Joltik,"[""'Bug'"", ""'Electric'""]",595Joltik.png
+595,596,Galvantula,"[""'Bug'"", ""'Electric'""]",596Galvantula.png
+596,597,Ferroseed,"[""'Grass'"", ""'Steel'""]",597Ferroseed.png
+597,598,Ferrothorn,"[""'Grass'"", ""'Steel'""]",598Ferrothorn.png
+598,599,Klink,"[""'Steel'""]",599Klink.png
+599,600,Klang,"[""'Steel'""]",600Klang.png
+600,601,Klinklang,"[""'Steel'""]",601Klinklang.png
+601,602,Tynamo,"[""'Electric'""]",602Tynamo.png
+602,603,Eelektrik,"[""'Electric'""]",603Eelektrik.png
+603,604,Eelektross,"[""'Electric'""]",604Eelektross.png
+604,605,Elgyem,"[""'Psychic'""]",605Elgyem.png
+605,606,Beheeyem,"[""'Psychic'""]",606Beheeyem.png
+606,607,Litwick,"[""'Ghost'"", ""'Fire'""]",607Litwick.png
+607,608,Lampent,"[""'Ghost'"", ""'Fire'""]",608Lampent.png
+608,609,Chandelure,"[""'Ghost'"", ""'Fire'""]",609Chandelure.png
+609,610,Axew,"[""'Dragon'""]",610Axew.png
+610,611,Fraxure,"[""'Dragon'""]",611Fraxure.png
+611,612,Haxorus,"[""'Dragon'""]",612Haxorus.png
+612,613,Cubchoo,"[""'Ice'""]",613Cubchoo.png
+613,614,Beartic,"[""'Ice'""]",614Beartic.png
+614,615,Cryogonal,"[""'Ice'""]",615Cryogonal.png
+615,616,Shelmet,"[""'Bug'""]",616Shelmet.png
+616,617,Accelgor,"[""'Bug'""]",617Accelgor.png
+617,618,Stunfisk,"[""'Ground'"", ""'Electric'""]",618Stunfisk.png
+618,619,Mienfoo,"[""'Fighting'""]",619Mienfoo.png
+619,620,Mienshao,"[""'Fighting'""]",620Mienshao.png
+620,621,Druddigon,"[""'Dragon'""]",621Druddigon.png
+621,622,Golett,"[""'Ground'"", ""'Ghost'""]",622Golett.png
+622,623,Golurk,"[""'Ground'"", ""'Ghost'""]",623Golurk.png
+623,624,Pawniard,"[""'Dark'"", ""'Steel'""]",624Pawniard.png
+624,625,Bisharp,"[""'Dark'"", ""'Steel'""]",625Bisharp.png
+625,626,Bouffalant,"[""'Normal'""]",626Bouffalant.png
+626,627,Rufflet,"[""'Normal'"", ""'Flying'""]",627Rufflet.png
+627,628,Braviary,"[""'Normal'"", ""'Flying'""]",628Braviary.png
+628,629,Vullaby,"[""'Dark'"", ""'Flying'""]",629Vullaby.png
+629,630,Mandibuzz,"[""'Dark'"", ""'Flying'""]",630Mandibuzz.png
+630,631,Heatmor,"[""'Fire'""]",631Heatmor.png
+631,632,Durant,"[""'Bug'"", ""'Steel'""]",632Durant.png
+632,633,Deino,"[""'Dark'"", ""'Dragon'""]",633Deino.png
+633,634,Zweilous,"[""'Dark'"", ""'Dragon'""]",634Zweilous.png
+634,635,Hydreigon,"[""'Dark'"", ""'Dragon'""]",635Hydreigon.png
+635,636,Larvesta,"[""'Bug'"", ""'Fire'""]",636Larvesta.png
+636,637,Volcarona,"[""'Bug'"", ""'Fire'""]",637Volcarona.png
+637,638,Cobalion,"[""'Steel'"", ""'Fighting'""]",638Cobalion.png
+638,639,Terrakion,"[""'Rock'"", ""'Fighting'""]",639Terrakion.png
+639,640,Virizion,"[""'Grass'"", ""'Fighting'""]",640Virizion.png
+640,641,Tornadus,"[""'Flying'""]",641Tornadus.png
+641,642,Thundurus,"[""'Electric'"", ""'Flying'""]",642Thundurus.png
+642,643,Reshiram,"[""'Dragon'"", ""'Fire'""]",643Reshiram.png
+643,644,Zekrom,"[""'Dragon'"", ""'Electric'""]",644Zekrom.png
+644,645,Landorus,"[""'Ground'"", ""'Flying'""]",645Landorus.png
+645,646,Kyurem,"[""'Dragon'"", ""'Ice'""]",646Kyurem.png
+646,647,Keldeo,"[""'Water'"", ""'Fighting'""]",647Keldeo.png
+647,648,Meloetta,"[""'Normal'"", ""'Psychic'""]",648Meloetta.png
+648,649,Genesect,"[""'Bug'"", ""'Steel'""]",649Genesect.png
+649,650,Chespin,"[""'Grass'""]",650Chespin.png
+650,651,Quilladin,"[""'Grass'""]",651Quilladin.png
+651,652,Chesnaught,"[""'Grass'"", ""'Fighting'""]",652Chesnaught.png
+652,653,Fennekin,"[""'Fire'""]",653Fennekin.png
+653,654,Braixen,"[""'Fire'""]",654Braixen.png
+654,655,Delphox,"[""'Fire'"", ""'Psychic'""]",655Delphox.png
+655,656,Froakie,"[""'Water'""]",656Froakie.png
+656,657,Frogadier,"[""'Water'""]",657Frogadier.png
+657,658,Greninja,"[""'Water'"", ""'Dark'""]",658Greninja.png
+658,659,Bunnelby,"[""'Normal'""]",659Bunnelby.png
+659,660,Diggersby,"[""'Normal'"", ""'Ground'""]",660Diggersby.png
+660,661,Fletchling,"[""'Normal'"", ""'Flying'""]",661Fletchling.png
+661,662,Fletchinder,"[""'Fire'"", ""'Flying'""]",662Fletchinder.png
+662,663,Talonflame,"[""'Fire'"", ""'Flying'""]",663Talonflame.png
+663,664,Scatterbug,"[""'Bug'""]",664Scatterbug.png
+664,665,Spewpa,"[""'Bug'""]",665Spewpa.png
+665,666,Vivillon,"[""'Bug'"", ""'Flying'""]",666Vivillon.png
+666,667,Litleo,"[""'Fire'"", ""'Normal'""]",667Litleo.png
+667,668,Pyroar,"[""'Fire'"", ""'Normal'""]",668Pyroar.png
+668,669,Flabébé,"[""'Fairy'""]",669Flab%C3%A9b%C3%A9.png
+669,670,Floette,"[""'Fairy'""]",670Floette.png
+670,671,Florges,"[""'Fairy'""]",671Florges.png
+671,672,Skiddo,"[""'Grass'""]",672Skiddo.png
+672,673,Gogoat,"[""'Grass'""]",673Gogoat.png
+673,674,Pancham,"[""'Fighting'""]",674Pancham.png
+674,675,Pangoro,"[""'Fighting'"", ""'Dark'""]",675Pangoro.png
+675,676,Furfrou,"[""'Normal'""]",676Furfrou.png
+676,677,Espurr,"[""'Psychic'""]",677Espurr.png
+677,678,Meowstic,"[""'Psychic'""]",678Meowstic.png
+678,679,Honedge,"[""'Steel'"", ""'Ghost'""]",679Honedge.png
+679,680,Doublade,"[""'Steel'"", ""'Ghost'""]",680Doublade.png
+680,681,Aegislash,"[""'Steel'"", ""'Ghost'""]",681Aegislash.png
+681,682,Spritzee,"[""'Fairy'""]",682Spritzee.png
+682,683,Aromatisse,"[""'Fairy'""]",683Aromatisse.png
+683,684,Swirlix,"[""'Fairy'""]",684Swirlix.png
+684,685,Slurpuff,"[""'Fairy'""]",685Slurpuff.png
+685,686,Inkay,"[""'Dark'"", ""'Psychic'""]",686Inkay.png
+686,687,Malamar,"[""'Dark'"", ""'Psychic'""]",687Malamar.png
+687,688,Binacle,"[""'Rock'"", ""'Water'""]",688Binacle.png
+688,689,Barbaracle,"[""'Rock'"", ""'Water'""]",689Barbaracle.png
+689,690,Skrelp,"[""'Poison'"", ""'Water'""]",690Skrelp.png
+690,691,Dragalge,"[""'Poison'"", ""'Dragon'""]",691Dragalge.png
+691,692,Clauncher,"[""'Water'""]",692Clauncher.png
+692,693,Clawitzer,"[""'Water'""]",693Clawitzer.png
+693,694,Helioptile,"[""'Electric'"", ""'Normal'""]",694Helioptile.png
+694,695,Heliolisk,"[""'Electric'"", ""'Normal'""]",695Heliolisk.png
+695,696,Tyrunt,"[""'Rock'"", ""'Dragon'""]",696Tyrunt.png
+696,697,Tyrantrum,"[""'Rock'"", ""'Dragon'""]",697Tyrantrum.png
+697,698,Amaura,"[""'Rock'"", ""'Ice'""]",698Amaura.png
+698,699,Aurorus,"[""'Rock'"", ""'Ice'""]",699Aurorus.png
+699,700,Sylveon,"[""'Fairy'""]",700Sylveon.png
+700,701,Hawlucha,"[""'Fighting'"", ""'Flying'""]",701Hawlucha.png
+701,702,Dedenne,"[""'Electric'"", ""'Fairy'""]",702Dedenne.png
+702,703,Carbink,"[""'Rock'"", ""'Fairy'""]",703Carbink.png
+703,704,Goomy,"[""'Dragon'""]",704Goomy.png
+704,705,Sliggoo,"[""'Dragon'""]",705Sliggoo.png
+705,706,Goodra,"[""'Dragon'""]",706Goodra.png
+706,707,Klefki,"[""'Steel'"", ""'Fairy'""]",707Klefki.png
+707,708,Phantump,"[""'Ghost'"", ""'Grass'""]",708Phantump.png
+708,709,Trevenant,"[""'Ghost'"", ""'Grass'""]",709Trevenant.png
+709,710,Pumpkaboo,"[""'Ghost'"", ""'Grass'""]",710Pumpkaboo.png
+710,711,Gourgeist,"[""'Ghost'"", ""'Grass'""]",711Gourgeist.png
+711,712,Bergmite,"[""'Ice'""]",712Bergmite.png
+712,713,Avalugg,"[""'Ice'""]",713Avalugg.png
+713,714,Noibat,"[""'Flying'"", ""'Dragon'""]",714Noibat.png
+714,715,Noivern,"[""'Flying'"", ""'Dragon'""]",715Noivern.png
+715,716,Xerneas,"[""'Fairy'""]",716Xerneas.png
+716,717,Yveltal,"[""'Dark'"", ""'Flying'""]",717Yveltal.png
+717,718,Zygarde,"[""'Dragon'"", ""'Ground'""]",718Zygarde.png
+718,719,Diancie,"[""'Rock'"", ""'Fairy'""]",719Diancie.png
+719,720,Hoopa,"[""'Psychic'"", ""'Ghost'""]",720Hoopa.png
+720,721,Volcanion,"[""'Fire'"", ""'Water'""]",721Volcanion.png
+721,722,Rowlet,"[""'Grass'"", ""'Flying'""]",722Rowlet.png
+722,723,Dartrix,"[""'Grass'"", ""'Flying'""]",723Dartrix.png
+723,724,Decidueye,"[""'Grass'"", ""'Ghost'""]",724Decidueye.png
+724,725,Litten,"[""'Fire'""]",725Litten.png
+725,726,Torracat,"[""'Fire'""]",726Torracat.png
+726,727,Incineroar,"[""'Fire'"", ""'Dark'""]",727Incineroar.png
+727,728,Popplio,"[""'Water'""]",728Popplio.png
+728,729,Brionne,"[""'Water'""]",729Brionne.png
+729,730,Primarina,"[""'Water'"", ""'Fairy'""]",730Primarina.png
+730,731,Pikipek,"[""'Normal'"", ""'Flying'""]",731Pikipek.png
+731,732,Trumbeak,"[""'Normal'"", ""'Flying'""]",732Trumbeak.png
+732,733,Toucannon,"[""'Normal'"", ""'Flying'""]",733Toucannon.png
+733,734,Yungoos,"[""'Normal'""]",734Yungoos.png
+734,735,Gumshoos,"[""'Normal'""]",735Gumshoos.png
+735,736,Grubbin,"[""'Bug'""]",736Grubbin.png
+736,737,Charjabug,"[""'Bug'"", ""'Electric'""]",737Charjabug.png
+737,738,Vikavolt,"[""'Bug'"", ""'Electric'""]",738Vikavolt.png
+738,739,Crabrawler,"[""'Fighting'""]",739Crabrawler.png
+739,740,Crabominable,"[""'Fighting'"", ""'Ice'""]",740Crabominable.png
+740,741,Oricorio,"[""'Fire'"", ""'Flying'""]",741Oricorio-Baile.png
+741,742,Cutiefly,"[""'Bug'"", ""'Fairy'""]",742Cutiefly.png
+742,743,Ribombee,"[""'Bug'"", ""'Fairy'""]",743Ribombee.png
+743,744,Rockruff,"[""'Rock'""]",744Rockruff.png
+744,745,Lycanroc,"[""'Rock'""]",745Lycanroc.png
+745,746,Wishiwashi,"[""'Water'""]",746Wishiwashi-Solo.png
+746,747,Mareanie,"[""'Poison'"", ""'Water'""]",747Mareanie.png
+747,748,Toxapex,"[""'Poison'"", ""'Water'""]",748Toxapex.png
+748,749,Mudbray,"[""'Ground'""]",749Mudbray.png
+749,750,Mudsdale,"[""'Ground'""]",750Mudsdale.png
+750,751,Dewpider,"[""'Water'"", ""'Bug'""]",751Dewpider.png
+751,752,Araquanid,"[""'Water'"", ""'Bug'""]",752Araquanid.png
+752,753,Fomantis,"[""'Grass'""]",753Fomantis.png
+753,754,Lurantis,"[""'Grass'""]",754Lurantis.png
+754,755,Morelull,"[""'Grass'"", ""'Fairy'""]",755Morelull.png
+755,756,Shiinotic,"[""'Grass'"", ""'Fairy'""]",756Shiinotic.png
+756,757,Salandit,"[""'Poison'"", ""'Fire'""]",757Salandit.png
+757,758,Salazzle,"[""'Poison'"", ""'Fire'""]",758Salazzle.png
+758,759,Stufful,"[""'Normal'"", ""'Fighting'""]",759Stufful.png
+759,760,Bewear,"[""'Normal'"", ""'Fighting'""]",760Bewear.png
+760,761,Bounsweet,"[""'Grass'""]",761Bounsweet.png
+761,762,Steenee,"[""'Grass'""]",762Steenee.png
+762,763,Tsareena,"[""'Grass'""]",763Tsareena.png
+763,764,Comfey,"[""'Fairy'""]",764Comfey.png
+764,765,Oranguru,"[""'Normal'"", ""'Psychic'""]",765Oranguru.png
+765,766,Passimian,"[""'Fighting'""]",766Passimian.png
+766,767,Wimpod,"[""'Bug'"", ""'Water'""]",767Wimpod.png
+767,768,Golisopod,"[""'Bug'"", ""'Water'""]",768Golisopod.png
+768,769,Sandygast,"[""'Ghost'"", ""'Ground'""]",769Sandygast.png
+769,770,Palossand,"[""'Ghost'"", ""'Ground'""]",770Palossand.png
+770,771,Pyukumuku,"[""'Water'""]",771Pyukumuku.png
+771,772,Type: Null,"[""'Normal'""]",772Type_Null.png
+772,773,Silvally,"[""'Normal'""]",773Silvally.png
+773,774,Minior,"[""'Rock'"", ""'Flying'""]",774Minior.png
+774,775,Komala,"[""'Normal'""]",775Komala.png
+775,776,Turtonator,"[""'Fire'"", ""'Dragon'""]",776Turtonator.png
+776,777,Togedemaru,"[""'Electric'"", ""'Steel'""]",777Togedemaru.png
+777,778,Mimikyu,"[""'Ghost'"", ""'Fairy'""]",778Mimikyu.png
+778,779,Bruxish,"[""'Water'"", ""'Psychic'""]",779Bruxish.png
+779,780,Drampa,"[""'Normal'"", ""'Dragon'""]",780Drampa.png
+780,781,Dhelmise,"[""'Ghost'"", ""'Grass'""]",781Dhelmise.png
+781,782,Jangmo-o,"[""'Dragon'""]",782Jangmo-o.png
+782,783,Hakamo-o,"[""'Dragon'"", ""'Fighting'""]",783Hakamo-o.png
+783,784,Kommo-o,"[""'Dragon'"", ""'Fighting'""]",784Kommo-o.png
+784,785,Tapu Koko,"[""'Electric'"", ""'Fairy'""]",785Tapu_Koko.png
+785,786,Tapu Lele,"[""'Psychic'"", ""'Fairy'""]",786Tapu_Lele.png
+786,787,Tapu Bulu,"[""'Grass'"", ""'Fairy'""]",787Tapu_Bulu.png
+787,788,Tapu Fini,"[""'Water'"", ""'Fairy'""]",788Tapu_Fini.png
+788,789,Cosmog,"[""'Psychic'""]",789Cosmog.png
+789,790,Cosmoem,"[""'Psychic'""]",790Cosmoem.png
+790,791,Solgaleo,"[""'Psychic'"", ""'Steel'""]",791Solgaleo.png
+791,792,Lunala,"[""'Psychic'"", ""'Ghost'""]",792Lunala.png
+792,793,Nihilego,"[""'Rock'"", ""'Poison'""]",793Nihilego.png
+793,794,Buzzwole,"[""'Bug'"", ""'Fighting'""]",794Buzzwole.png
+794,795,Pheromosa,"[""'Bug'"", ""'Fighting'""]",795Pheromosa.png
+795,796,Xurkitree,"[""'Electric'""]",796Xurkitree.png
+796,797,Celesteela,"[""'Steel'"", ""'Flying'""]",797Celesteela.png
+797,798,Kartana,"[""'Grass'"", ""'Steel'""]",798Kartana.png
+798,799,Guzzlord,"[""'Dark'"", ""'Dragon'""]",799Guzzlord.png
+799,800,Necrozma,"[""'Psychic'""]",800Necrozma.png
+800,801,Magearna,"[""'Steel'"", ""'Fairy'""]",801Magearna.png
+801,802,Marshadow,"[""'Fighting'"", ""'Ghost'""]",802Marshadow.png
+802,803,Poipole,"[""'Poison'""]",803Poipole.png
+803,804,Naganadel,"[""'Poison'"", ""'Dragon'""]",804Naganadel.png
+804,805,Stakataka,"[""'Rock'"", ""'Steel'""]",805Stakataka.png
+805,806,Blacephalon,"[""'Fire'"", ""'Ghost'""]",806Blacephalon.png
+806,807,Zeraora,"[""'Electric'""]",807Zeraora.png
+807,808,Meltan,"[""'Steel'""]",808Meltan.png
+808,809,Melmetal,"[""'Steel'""]",809Melmetal.png

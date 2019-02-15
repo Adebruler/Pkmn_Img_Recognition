@@ -3,7 +3,7 @@
 1,2,Ivysaur,"['Grass', 'Poison']",002Ivysaur.png,Normal,Dark,0.0
 2,3,Venusaur,"['Grass', 'Poison']",003Venusaur.png,Normal,Water,0.0
 3,4,Charmander,['Fire'],004Charmander.png,Fire,Ground,1.0
-4,5,Charmeleon,['Fire'],005Charmeleon.png,Fire,Bug,1.0
+4,5,Charmeleon,['Fire'],005Charmeleon.png,Fire,Fire,1.0
 5,6,Charizard,"['Fire', 'Flying']",006Charizard.png,Fire,Ground,0.5
 6,7,Squirtle,['Water'],007Squirtle.png,Fighting,Dark,0.0
 7,8,Wartortle,['Water'],008Wartortle.png,Normal,Ghost,0.0
@@ -12,13 +12,13 @@
 10,11,Metapod,['Bug'],011Metapod.png,Fire,Bug,0.5
 11,12,Butterfree,"['Bug', 'Flying']",012Butterfree.png,Normal,Flying,0.5
 12,13,Weedle,"['Bug', 'Poison']",013Weedle.png,Fire,Fighting,0.0
-13,14,Kakuna,"['Bug', 'Poison']",014Kakuna.png,Fire,Bug,0.5
+13,14,Kakuna,"['Bug', 'Poison']",014Kakuna.png,Fire,Fire,0.0
 14,15,Beedrill,"['Bug', 'Poison']",015Beedrill.png,Normal,Bug,0.5
 15,16,Pidgey,"['Normal', 'Flying']",016Pidgey.png,Fire,Normal,0.5
-16,17,Pidgeotto,"['Normal', 'Flying']",017Pidgeotto.png,Normal,Bug,0.5
-17,18,Pidgeot,"['Normal', 'Flying']",018Pidgeot.png,Normal,Bug,0.5
+16,17,Pidgeotto,"['Normal', 'Flying']",017Pidgeotto.png,Normal,Normal,0.5
+17,18,Pidgeot,"['Normal', 'Flying']",018Pidgeot.png,Normal,Normal,0.5
 18,19,Rattata,['Normal'],019Rattata.png,Water,Normal,0.5
-19,20,Raticate,['Normal'],020Raticate.png,Fire,Bug,0.0
+19,20,Raticate,['Normal'],020Raticate.png,Fire,Fire,0.0
 20,21,Spearow,"['Normal', 'Flying']",021Spearow.png,Normal,Fire,0.5
 21,22,Fearow,"['Normal', 'Flying']",022Fearow.png,Fire,Normal,0.5
 22,23,Ekans,['Poison'],023Ekans.png,Normal,Flying,0.0
@@ -26,24 +26,24 @@
 24,25,Pikachu,['Electric'],025Pikachu.png,Fire,Ground,0.0
 25,26,Raichu,['Electric'],026Raichu.png,Fire,Fighting,0.0
 26,27,Sandshrew,['Ground'],027Sandshrew.png,Fire,Ground,0.5
-27,28,Sandslash,['Ground'],028Sandslash.png,Fire,Bug,0.0
-28,29,Nidoran♀,['Poison'],029Nidoran.png,Normal,Bug,0.0
-29,30,Nidorina,['Poison'],030Nidorina.png,Normal,Bug,0.0
+27,28,Sandslash,['Ground'],028Sandslash.png,Fire,Fire,0.0
+28,29,Nidoran♀,['Poison'],029Nidoran.png,Normal,Normal,0.0
+29,30,Nidorina,['Poison'],030Nidorina.png,Normal,Normal,0.0
 30,31,Nidoqueen,"['Poison', 'Ground']",031Nidoqueen.png,Water,Ground,0.5
 31,32,Nidoran♂,['Poison'],032Nidoran.png,Water,Ground,0.0
 32,33,Nidorino,['Poison'],033Nidorino.png,Dragon,Ghost,0.0
 33,34,Nidoking,"['Poison', 'Ground']",034Nidoking.png,Normal,Ghost,0.0
-34,35,Clefairy,['Fairy'],035Clefairy.png,Normal,Bug,0.0
-35,36,Clefable,['Fairy'],036Clefable.png,Normal,Bug,0.0
+34,35,Clefairy,['Fairy'],035Clefairy.png,Normal,Normal,0.0
+35,36,Clefable,['Fairy'],036Clefable.png,Normal,Normal,0.0
 36,37,Vulpix,['Fire'],037Vulpix.png,Fire,Ground,1.0
 37,38,Ninetales,['Fire'],038Ninetales.png,Normal,Fire,0.5
 38,39,Jigglypuff,"['Normal', 'Fairy']",039Jigglypuff.png,Normal,Steel,0.5
-39,40,Wigglytuff,"['Normal', 'Fairy']",040Wigglytuff.png,Normal,Bug,0.5
+39,40,Wigglytuff,"['Normal', 'Fairy']",040Wigglytuff.png,Normal,Normal,0.5
 40,41,Zubat,"['Poison', 'Flying']",041Zubat.png,Water,Normal,0.0
 41,42,Golbat,"['Poison', 'Flying']",042Golbat.png,Normal,Flying,0.5
-42,43,Oddish,"['Grass', 'Poison']",043Oddish.png,Grass,Bug,0.5
+42,43,Oddish,"['Grass', 'Poison']",043Oddish.png,Grass,Grass,0.5
 43,44,Gloom,"['Grass', 'Poison']",044Gloom.png,Normal,Flying,0.0
-44,45,Vileplume,"['Grass', 'Poison']",045Vileplume.png,Normal,Bug,0.0
+44,45,Vileplume,"['Grass', 'Poison']",045Vileplume.png,Normal,Normal,0.0
 45,46,Paras,"['Bug', 'Grass']",046Paras.png,Fire,Ground,0.0
 46,47,Parasect,"['Bug', 'Grass']",047Parasect.png,Fire,Ground,0.0
 47,48,Venonat,"['Bug', 'Poison']",048Venonat.png,Dark,Bug,0.5
@@ -52,15 +52,15 @@
 50,51,Dugtrio,['Ground'],051Dugtrio.png,Fire,Ground,0.5
 51,52,Meowth,['Normal'],052Meowth.png,Fire,Water,0.0
 52,53,Persian,['Normal'],053Persian.png,Ground,Bug,0.0
-53,54,Psyduck,['Water'],054Psyduck.png,Fire,Bug,0.0
+53,54,Psyduck,['Water'],054Psyduck.png,Fire,Fire,0.0
 54,55,Golduck,['Water'],055Golduck.png,Dark,Fighting,0.0
 55,56,Mankey,['Fighting'],056Mankey.png,Normal,Bug,0.0
 56,57,Primeape,['Fighting'],057Primeape.png,Normal,Ground,0.0
-57,58,Growlithe,['Fire'],058Growlithe.png,Fire,Bug,1.0
-58,59,Arcanine,['Fire'],059Arcanine.png,Fire,Bug,1.0
+57,58,Growlithe,['Fire'],058Growlithe.png,Fire,Fire,1.0
+58,59,Arcanine,['Fire'],059Arcanine.png,Fire,Fire,1.0
 59,60,Poliwag,['Water'],060Poliwag.png,Flying,Water,0.5
 60,61,Poliwhirl,['Water'],061Poliwhirl.png,Normal,Dragon,0.0
-61,62,Poliwrath,"['Water', 'Fighting']",062Poliwrath.png,Water,Bug,0.5
+61,62,Poliwrath,"['Water', 'Fighting']",062Poliwrath.png,Water,Water,0.5
 62,63,Abra,['Psychic'],063Abra.png,Fire,Bug,0.0
 63,64,Kadabra,['Psychic'],064Kadabra.png,Fire,Bug,0.0
 64,65,Alakazam,['Psychic'],065Alakazam.png,Ground,Fire,0.0
@@ -75,12 +75,12 @@
 73,74,Geodude,"['Rock', 'Ground']",074Geodude.png,Normal,Flying,0.0
 74,75,Graveler,"['Rock', 'Ground']",075Graveler.png,Bug,Ground,0.5
 75,76,Golem,"['Rock', 'Ground']",076Golem.png,Water,Ground,0.5
-76,77,Ponyta,['Fire'],077Ponyta.png,Fire,Bug,1.0
-77,78,Rapidash,['Fire'],078Rapidash.png,Fire,Bug,1.0
+76,77,Ponyta,['Fire'],077Ponyta.png,Fire,Fire,1.0
+77,78,Rapidash,['Fire'],078Rapidash.png,Fire,Fire,1.0
 78,79,Slowpoke,"['Water', 'Psychic']",079Slowpoke.png,Ground,Fighting,0.0
 79,80,Slowbro,"['Water', 'Psychic']",080Slowbro.png,Ground,Water,0.5
 80,81,Magnemite,"['Electric', 'Steel']",081Magnemite.png,Normal,Water,0.0
-81,82,Magneton,"['Electric', 'Steel']",082Magneton.png,Normal,Bug,0.0
+81,82,Magneton,"['Electric', 'Steel']",082Magneton.png,Normal,Normal,0.0
 82,83,Farfetch'd,"['Normal', 'Flying']",083Farfetch%27d.png,Normal,Fighting,0.5
 83,84,Doduo,"['Normal', 'Flying']",084Doduo.png,Normal,Fire,0.5
 84,85,Dodrio,"['Normal', 'Flying']",085Dodrio.png,Normal,Grass,0.5
@@ -94,18 +94,18 @@
 92,93,Haunter,"['Ghost', 'Poison']",093Haunter.png,Normal,Water,0.0
 93,94,Gengar,"['Ghost', 'Poison']",094Gengar.png,Normal,Psychic,0.0
 94,95,Onix,"['Rock', 'Ground']",095Onix.png,Normal,Dark,0.0
-95,96,Drowzee,['Psychic'],096Drowzee.png,Fire,Bug,0.0
-96,97,Hypno,['Psychic'],097Hypno.png,Fire,Bug,0.0
+95,96,Drowzee,['Psychic'],096Drowzee.png,Fire,Fire,0.0
+96,97,Hypno,['Psychic'],097Hypno.png,Fire,Fire,0.0
 97,98,Krabby,['Water'],098Krabby.png,Ground,Flying,0.0
-98,99,Kingler,['Water'],099Kingler.png,Ground,Bug,0.0
+98,99,Kingler,['Water'],099Kingler.png,Ground,Ground,0.0
 99,100,Voltorb,['Electric'],100Voltorb.png,Fire,Normal,0.0
 100,101,Electrode,['Electric'],101Electrode.png,Normal,Flying,0.0
-101,102,Exeggcute,"['Grass', 'Psychic']",102Exeggcute.png,Normal,Bug,0.0
+101,102,Exeggcute,"['Grass', 'Psychic']",102Exeggcute.png,Normal,Normal,0.0
 102,103,Exeggutor,"['Grass', 'Psychic']",103Exeggutor.png,Grass,Normal,0.5
 103,104,Cubone,['Ground'],104Cubone.png,Fire,Ground,0.5
 104,105,Marowak,['Ground'],105Marowak.png,Fire,Water,0.0
-105,106,Hitmonlee,['Fighting'],106Hitmonlee.png,Normal,Bug,0.0
-106,107,Hitmonchan,['Fighting'],107Hitmonchan.png,Normal,Bug,0.0
+105,106,Hitmonlee,['Fighting'],106Hitmonlee.png,Normal,Normal,0.0
+106,107,Hitmonchan,['Fighting'],107Hitmonchan.png,Normal,Normal,0.0
 107,108,Lickitung,['Normal'],108Lickitung.png,Fighting,Ground,0.0
 108,109,Koffing,['Poison'],109Koffing.png,Flying,Normal,0.0
 109,110,Weezing,['Poison'],110Weezing.png,Water,Fighting,0.0
@@ -123,7 +123,7 @@
 121,122,Mr. Mime,"['Psychic', 'Fairy']",122Mr._Mime.png,Fighting,Ground,0.0
 122,123,Scyther,"['Bug', 'Flying']",123Scyther.png,Fire,Ground,0.0
 123,124,Jynx,"['Ice', 'Psychic']",124Jynx.png,Fire,Ground,0.0
-124,125,Electabuzz,['Electric'],125Electabuzz.png,Fire,Bug,0.0
+124,125,Electabuzz,['Electric'],125Electabuzz.png,Fire,Fire,0.0
 125,126,Magmar,['Fire'],126Magmar.png,Fire,Ground,1.0
 126,127,Pinsir,['Bug'],127Pinsir.png,Flying,Normal,0.0
 127,128,Tauros,['Normal'],128Tauros.png,Ground,Fire,0.0
@@ -133,7 +133,7 @@
 131,132,Ditto,['Normal'],132Ditto.png,Steel,Ground,0.0
 132,133,Eevee,['Normal'],133Eevee.png,Fire,Ground,0.0
 133,134,Vaporeon,['Water'],134Vaporeon.png,Dark,Water,0.5
-134,135,Jolteon,['Electric'],135Jolteon.png,Fire,Bug,0.0
+134,135,Jolteon,['Electric'],135Jolteon.png,Fire,Fire,0.0
 135,136,Flareon,['Fire'],136Flareon.png,Ground,Fire,0.5
 136,137,Porygon,['Normal'],137Porygon.png,Water,Fighting,0.0
 137,138,Omanyte,"['Rock', 'Water']",138Omanyte.png,Normal,Grass,0.0
@@ -144,18 +144,18 @@
 142,143,Snorlax,['Normal'],143Snorlax.png,Ground,Steel,0.0
 143,144,Articuno,"['Ice', 'Flying']",144Articuno.png,Flying,Normal,0.5
 144,145,Zapdos,"['Electric', 'Flying']",145Zapdos.png,Fire,Ground,0.0
-145,146,Moltres,"['Fire', 'Flying']",146Moltres.png,Ground,Bug,0.0
+145,146,Moltres,"['Fire', 'Flying']",146Moltres.png,Ground,Ground,0.0
 146,147,Dratini,['Dragon'],147Dratini.png,Ground,Normal,0.0
 147,148,Dragonair,['Dragon'],148Dragonair.png,Fighting,Steel,0.0
-148,149,Dragonite,"['Dragon', 'Flying']",149Dragonite.png,Fire,Bug,0.0
+148,149,Dragonite,"['Dragon', 'Flying']",149Dragonite.png,Fire,Fire,0.0
 149,150,Mewtwo,['Psychic'],150Mewtwo.png,Normal,Bug,0.0
 150,151,Mew,['Psychic'],151Mew.png,Normal,Grass,0.0
 151,152,Chikorita,['Grass'],152Chikorita.png,Grass,Normal,1.0
 152,153,Bayleef,['Grass'],153Bayleef.png,Fire,Grass,0.5
 153,154,Meganium,['Grass'],154Meganium.png,Grass,Bug,1.0
 154,155,Cyndaquil,['Fire'],155Cyndaquil.png,Ground,Fire,0.5
-155,156,Quilava,['Fire'],156Quilava.png,Fire,Bug,1.0
-156,157,Typhlosion,['Fire'],157Typhlosion.png,Fire,Bug,1.0
+155,156,Quilava,['Fire'],156Quilava.png,Fire,Fire,1.0
+156,157,Typhlosion,['Fire'],157Typhlosion.png,Fire,Fire,1.0
 157,158,Totodile,['Water'],158Totodile.png,Bug,Grass,0.0
 158,159,Croconaw,['Water'],159Croconaw.png,Normal,Water,0.5
 159,160,Feraligatr,['Water'],160Feraligatr.png,Water,Dark,1.0
@@ -165,7 +165,7 @@
 163,164,Noctowl,"['Normal', 'Flying']",164Noctowl.png,Grass,Fire,0.0
 164,165,Ledyba,"['Bug', 'Flying']",165Ledyba.png,Fire,Ground,0.0
 165,166,Ledian,"['Bug', 'Flying']",166Ledian.png,Fire,Ground,0.0
-166,167,Spinarak,"['Bug', 'Poison']",167Spinarak.png,Ground,Bug,0.5
+166,167,Spinarak,"['Bug', 'Poison']",167Spinarak.png,Ground,Ground,0.0
 167,168,Ariados,"['Bug', 'Poison']",168Ariados.png,Ground,Bug,0.5
 168,169,Crobat,"['Poison', 'Flying']",169Crobat.png,Water,Dark,0.0
 169,170,Chinchou,"['Water', 'Electric']",170Chinchou.png,Water,Ground,0.5
@@ -173,26 +173,26 @@
 171,172,Pichu,['Electric'],172Pichu.png,Normal,Fire,0.0
 172,173,Cleffa,['Fairy'],173Cleffa.png,Fire,Ground,0.0
 173,174,Igglybuff,"['Normal', 'Fairy']",174Igglybuff.png,Normal,Fire,0.5
-174,175,Togepi,['Fairy'],175Togepi.png,Normal,Bug,0.0
+174,175,Togepi,['Fairy'],175Togepi.png,Normal,Normal,0.0
 175,176,Togetic,"['Fairy', 'Flying']",176Togetic.png,Normal,Bug,0.0
 176,177,Natu,"['Psychic', 'Flying']",177Natu.png,Fire,Ground,0.0
 177,178,Xatu,"['Psychic', 'Flying']",178Xatu.png,Grass,Fire,0.0
 178,179,Mareep,['Electric'],179Mareep.png,Fire,Normal,0.0
 179,180,Flaaffy,['Electric'],180Flaaffy.png,Normal,Fighting,0.0
 180,181,Ampharos,['Electric'],181Ampharos.png,Bug,Grass,0.0
-181,182,Bellossom,['Grass'],182Bellossom.png,Fire,Bug,0.0
+181,182,Bellossom,['Grass'],182Bellossom.png,Fire,Fire,0.0
 182,183,Marill,"['Water', 'Fairy']",183Marill.png,Water,Normal,0.5
 183,184,Azumarill,"['Water', 'Fairy']",184Azumarill.png,Water,Normal,0.5
 184,185,Sudowoodo,['Rock'],185Sudowoodo.png,Fire,Normal,0.0
-185,186,Politoed,['Water'],186Politoed.png,Fire,Bug,0.0
+185,186,Politoed,['Water'],186Politoed.png,Fire,Fire,0.0
 186,187,Hoppip,"['Grass', 'Flying']",187Hoppip.png,Fire,Flying,0.5
 187,188,Skiploom,"['Grass', 'Flying']",188Skiploom.png,Fire,Bug,0.0
 188,189,Jumpluff,"['Grass', 'Flying']",189Jumpluff.png,Dark,Fighting,0.0
 189,190,Aipom,['Normal'],190Aipom.png,Flying,Normal,0.5
-190,191,Sunkern,['Grass'],191Sunkern.png,Fire,Bug,0.0
+190,191,Sunkern,['Grass'],191Sunkern.png,Fire,Fire,0.0
 191,192,Sunflora,['Grass'],192Sunflora.png,Fire,Grass,0.5
 192,193,Yanma,"['Bug', 'Flying']",193Yanma.png,Bug,Ground,0.5
-193,194,Wooper,"['Water', 'Ground']",194Wooper.png,Normal,Bug,0.0
+193,194,Wooper,"['Water', 'Ground']",194Wooper.png,Normal,Normal,0.0
 194,195,Quagsire,"['Water', 'Ground']",195Quagsire.png,Dark,Normal,0.0
 195,196,Espeon,['Psychic'],196Espeon.png,Normal,Flying,0.0
 196,197,Umbreon,['Dark'],197Umbreon.png,Ground,Normal,0.0
@@ -201,62 +201,62 @@
 199,200,Misdreavus,['Ghost'],200Misdreavus.png,Water,Normal,0.0
 200,201,Unown,['Psychic'],201Unown.png,Normal,Dark,0.0
 201,202,Wobbuffet,['Psychic'],202Wobbuffet.png,Normal,Fairy,0.0
-202,203,Girafarig,"['Normal', 'Psychic']",203Girafarig.png,Fire,Bug,0.0
+202,203,Girafarig,"['Normal', 'Psychic']",203Girafarig.png,Fire,Fire,0.0
 203,204,Pineco,['Bug'],204Pineco.png,Normal,Grass,0.0
 204,205,Forretress,"['Bug', 'Steel']",205Forretress.png,Ground,Bug,0.5
-205,206,Dunsparce,['Normal'],206Dunsparce.png,Normal,Bug,1.0
+205,206,Dunsparce,['Normal'],206Dunsparce.png,Normal,Normal,1.0
 206,207,Gligar,"['Ground', 'Flying']",207Gligar.png,Ground,Flying,1.0
 207,208,Steelix,"['Steel', 'Ground']",208Steelix.png,Steel,Ground,1.0
 208,209,Snubbull,['Fairy'],209Snubbull.png,Fire,Normal,0.0
 209,210,Granbull,['Fairy'],210Granbull.png,Normal,Grass,0.0
-210,211,Qwilfish,"['Water', 'Poison']",211Qwilfish.png,Ground,Bug,0.0
-211,212,Scizor,"['Bug', 'Steel']",212Scizor.png,Fire,Bug,0.5
-212,213,Shuckle,"['Bug', 'Rock']",213Shuckle.png,Fire,Bug,0.5
+210,211,Qwilfish,"['Water', 'Poison']",211Qwilfish.png,Ground,Ground,0.0
+211,212,Scizor,"['Bug', 'Steel']",212Scizor.png,Fire,Fire,0.0
+212,213,Shuckle,"['Bug', 'Rock']",213Shuckle.png,Fire,Fire,0.0
 213,214,Heracross,"['Bug', 'Fighting']",214Heracross.png,Dark,Water,0.0
 214,215,Sneasel,"['Dark', 'Ice']",215Sneasel.png,Dark,Ice,1.0
-215,216,Teddiursa,['Normal'],216Teddiursa.png,Fire,Bug,0.0
-216,217,Ursaring,['Normal'],217Ursaring.png,Fire,Bug,0.0
-217,218,Slugma,['Fire'],218Slugma.png,Fire,Bug,1.0
-218,219,Magcargo,"['Fire', 'Rock']",219Magcargo.png,Fire,Bug,0.5
+215,216,Teddiursa,['Normal'],216Teddiursa.png,Fire,Fire,0.0
+216,217,Ursaring,['Normal'],217Ursaring.png,Fire,Fire,0.0
+217,218,Slugma,['Fire'],218Slugma.png,Fire,Fire,1.0
+218,219,Magcargo,"['Fire', 'Rock']",219Magcargo.png,Fire,Fire,0.5
 219,220,Swinub,"['Ice', 'Ground']",220Swinub.png,Ground,Fire,0.5
-220,221,Piloswine,"['Ice', 'Ground']",221Piloswine.png,Fire,Bug,0.0
+220,221,Piloswine,"['Ice', 'Ground']",221Piloswine.png,Fire,Fire,0.0
 221,222,Corsola,"['Water', 'Rock']",222Corsola.png,Normal,Ground,0.0
-222,223,Remoraid,['Water'],223Remoraid.png,Water,Bug,1.0
-223,224,Octillery,['Water'],224Octillery.png,Fire,Bug,0.0
+222,223,Remoraid,['Water'],223Remoraid.png,Water,Water,1.0
+223,224,Octillery,['Water'],224Octillery.png,Fire,Fire,0.0
 224,225,Delibird,"['Ice', 'Flying']",225Delibird.png,Fire,Fighting,0.0
 225,226,Mantine,"['Water', 'Flying']",226Mantine.png,Water,Flying,1.0
 226,227,Skarmory,"['Steel', 'Flying']",227Skarmory.png,Flying,Normal,0.5
 227,228,Houndour,"['Dark', 'Fire']",228Houndour.png,Dark,Fire,1.0
 228,229,Houndoom,"['Dark', 'Fire']",229Houndoom.png,Fire,Dark,1.0
-229,230,Kingdra,"['Water', 'Dragon']",230Kingdra.png,Water,Bug,0.5
+229,230,Kingdra,"['Water', 'Dragon']",230Kingdra.png,Water,Water,0.5
 230,231,Phanpy,['Ground'],231Phanpy.png,Ground,Normal,1.0
 231,232,Donphan,['Ground'],232Donphan.png,Water,Ground,0.5
-232,233,Porygon2,['Normal'],233Porygon2.png,Normal,Bug,1.0
-233,234,Stantler,['Normal'],234Stantler.png,Normal,Bug,1.0
-234,235,Smeargle,['Normal'],235Smeargle.png,Normal,Bug,1.0
+232,233,Porygon2,['Normal'],233Porygon2.png,Normal,Normal,1.0
+233,234,Stantler,['Normal'],234Stantler.png,Normal,Normal,1.0
+234,235,Smeargle,['Normal'],235Smeargle.png,Normal,Normal,1.0
 235,236,Tyrogue,['Fighting'],236Tyrogue.png,Fighting,Ground,1.0
 236,237,Hitmontop,['Fighting'],237Hitmontop.png,Fighting,Ground,1.0
 237,238,Smoochum,"['Ice', 'Psychic']",238Smoochum.png,Fire,Bug,0.0
 238,239,Elekid,['Electric'],239Elekid.png,Ground,Fire,0.0
-239,240,Magby,['Fire'],240Magby.png,Fire,Bug,1.0
+239,240,Magby,['Fire'],240Magby.png,Fire,Fire,1.0
 240,241,Miltank,['Normal'],241Miltank.png,Normal,Fire,1.0
-241,242,Blissey,['Normal'],242Blissey.png,Normal,Bug,1.0
+241,242,Blissey,['Normal'],242Blissey.png,Normal,Normal,1.0
 242,243,Raikou,['Electric'],243Raikou.png,Ground,Fire,0.0
-243,244,Entei,['Fire'],244Entei.png,Fire,Bug,1.0
+243,244,Entei,['Fire'],244Entei.png,Fire,Fire,1.0
 244,245,Suicune,['Water'],245Suicune.png,Water,Dark,1.0
 245,246,Larvitar,"['Rock', 'Ground']",246Larvitar.png,Ground,Fighting,0.5
 246,247,Pupitar,"['Rock', 'Ground']",247Pupitar.png,Normal,Ground,0.5
 247,248,Tyranitar,"['Rock', 'Dark']",248Tyranitar.png,Fighting,Grass,0.0
-248,249,Lugia,"['Psychic', 'Flying']",249Lugia.png,Flying,Bug,0.5
-249,250,Ho-Oh,"['Fire', 'Flying']",250Ho-Oh.png,Fire,Bug,0.5
+248,249,Lugia,"['Psychic', 'Flying']",249Lugia.png,Flying,Flying,0.5
+249,250,Ho-Oh,"['Fire', 'Flying']",250Ho-Oh.png,Fire,Fire,0.5
 250,251,Celebi,"['Psychic', 'Grass']",251Celebi.png,Grass,Bug,0.5
-251,252,Treecko,['Grass'],252Treecko.png,Grass,Bug,1.0
+251,252,Treecko,['Grass'],252Treecko.png,Grass,Grass,1.0
 252,253,Grovyle,['Grass'],253Grovyle.png,Grass,Ground,1.0
-253,254,Sceptile,['Grass'],254Sceptile.png,Grass,Bug,1.0
-254,255,Torchic,['Fire'],255Torchic.png,Fire,Bug,1.0
-255,256,Combusken,"['Fire', 'Fighting']",256Combusken.png,Fire,Bug,0.5
-256,257,Blaziken,"['Fire', 'Fighting']",257Blaziken.png,Fire,Bug,0.5
-257,258,Mudkip,['Water'],258Mudkip.png,Water,Bug,1.0
+253,254,Sceptile,['Grass'],254Sceptile.png,Grass,Grass,1.0
+254,255,Torchic,['Fire'],255Torchic.png,Fire,Fire,1.0
+255,256,Combusken,"['Fire', 'Fighting']",256Combusken.png,Fire,Fire,0.5
+256,257,Blaziken,"['Fire', 'Fighting']",257Blaziken.png,Fire,Fire,0.5
+257,258,Mudkip,['Water'],258Mudkip.png,Water,Water,1.0
 258,259,Marshtomp,"['Water', 'Ground']",259Marshtomp.png,Water,Ground,1.0
 259,260,Swampert,"['Water', 'Ground']",260Swampert.png,Water,Ground,1.0
 260,261,Poochyena,['Dark'],261Poochyena.png,Dark,Normal,1.0
@@ -270,7 +270,7 @@
 268,269,Dustox,"['Bug', 'Poison']",269Dustox.png,Ground,Bug,0.5
 269,270,Lotad,"['Water', 'Grass']",270Lotad.png,Grass,Ground,0.5
 270,271,Lombre,"['Water', 'Grass']",271Lombre.png,Grass,Fire,0.5
-271,272,Ludicolo,"['Water', 'Grass']",272Ludicolo.png,Fire,Bug,0.0
+271,272,Ludicolo,"['Water', 'Grass']",272Ludicolo.png,Fire,Fire,0.0
 272,273,Seedot,['Grass'],273Seedot.png,Normal,Grass,0.5
 273,274,Nuzleaf,"['Grass', 'Dark']",274Nuzleaf.png,Grass,Normal,0.5
 274,275,Shiftry,"['Grass', 'Dark']",275Shiftry.png,Normal,Grass,0.5
@@ -289,17 +289,17 @@
 287,288,Vigoroth,['Normal'],288Vigoroth.png,Normal,Flying,1.0
 288,289,Slaking,['Normal'],289Slaking.png,Ground,Normal,0.5
 289,290,Nincada,"['Bug', 'Ground']",290Nincada.png,Ground,Bug,1.0
-290,291,Ninjask,"['Bug', 'Flying']",291Ninjask.png,Flying,Bug,1.0
+290,291,Ninjask,"['Bug', 'Flying']",291Ninjask.png,Flying,Flying,0.5
 291,292,Shedinja,"['Bug', 'Ghost']",292Shedinja.png,Normal,Bug,0.5
-292,293,Whismur,['Normal'],293Whismur.png,Normal,Bug,1.0
-293,294,Loudred,['Normal'],294Loudred.png,Normal,Bug,1.0
-294,295,Exploud,['Normal'],295Exploud.png,Normal,Bug,1.0
+292,293,Whismur,['Normal'],293Whismur.png,Normal,Normal,1.0
+293,294,Loudred,['Normal'],294Loudred.png,Normal,Normal,1.0
+294,295,Exploud,['Normal'],295Exploud.png,Normal,Normal,1.0
 295,296,Makuhita,['Fighting'],296Makuhita.png,Fire,Fighting,0.5
 296,297,Hariyama,['Fighting'],297Hariyama.png,Ground,Fire,0.0
 297,298,Azurill,"['Normal', 'Fairy']",298Azurill.png,Normal,Water,0.5
 298,299,Nosepass,['Rock'],299Nosepass.png,Normal,Dragon,0.0
-299,300,Skitty,['Normal'],300Skitty.png,Normal,Bug,1.0
-300,301,Delcatty,['Normal'],301Delcatty.png,Normal,Bug,1.0
+299,300,Skitty,['Normal'],300Skitty.png,Normal,Normal,1.0
+300,301,Delcatty,['Normal'],301Delcatty.png,Normal,Normal,1.0
 301,302,Sableye,"['Dark', 'Ghost']",302Sableye.png,Water,Dark,0.5
 302,303,Mawile,"['Steel', 'Fairy']",303Mawile.png,Ground,Bug,0.0
 303,304,Aron,"['Steel', 'Rock']",304Aron.png,Steel,Normal,0.5
@@ -308,8 +308,8 @@
 306,307,Meditite,"['Fighting', 'Psychic']",307Meditite.png,Steel,Fighting,0.5
 307,308,Medicham,"['Fighting', 'Psychic']",308Medicham.png,Fire,Normal,0.0
 308,309,Electrike,['Electric'],309Electrike.png,Ground,Electric,0.5
-309,310,Manectric,['Electric'],310Manectric.png,Normal,Bug,0.0
-310,311,Plusle,['Electric'],311Plusle.png,Fire,Bug,0.0
+309,310,Manectric,['Electric'],310Manectric.png,Normal,Normal,0.0
+310,311,Plusle,['Electric'],311Plusle.png,Fire,Fire,0.0
 311,312,Minun,['Electric'],312Minun.png,Fire,Ground,0.0
 312,313,Volbeat,['Bug'],313Volbeat.png,Bug,Fire,1.0
 313,314,Illumise,['Bug'],314Illumise.png,Normal,Steel,0.0
@@ -319,37 +319,37 @@
 317,318,Carvanha,"['Water', 'Dark']",318Carvanha.png,Fire,Normal,0.0
 318,319,Sharpedo,"['Water', 'Dark']",319Sharpedo.png,Water,Flying,0.5
 319,320,Wailmer,['Water'],320Wailmer.png,Water,Ground,1.0
-320,321,Wailord,['Water'],321Wailord.png,Water,Bug,1.0
+320,321,Wailord,['Water'],321Wailord.png,Water,Water,1.0
 321,322,Numel,"['Fire', 'Ground']",322Numel.png,Fire,Ground,1.0
-322,323,Camerupt,"['Fire', 'Ground']",323Camerupt.png,Ground,Bug,0.5
-323,324,Torkoal,['Fire'],324Torkoal.png,Fire,Bug,1.0
+322,323,Camerupt,"['Fire', 'Ground']",323Camerupt.png,Ground,Ground,0.5
+323,324,Torkoal,['Fire'],324Torkoal.png,Fire,Fire,1.0
 324,325,Spoink,['Psychic'],325Spoink.png,Normal,Psychic,0.5
 325,326,Grumpig,['Psychic'],326Grumpig.png,Fairy,Dark,0.0
-326,327,Spinda,['Normal'],327Spinda.png,Normal,Bug,1.0
-327,328,Trapinch,['Ground'],328Trapinch.png,Fire,Bug,0.0
+326,327,Spinda,['Normal'],327Spinda.png,Normal,Normal,1.0
+327,328,Trapinch,['Ground'],328Trapinch.png,Fire,Fire,0.0
 328,329,Vibrava,"['Ground', 'Dragon']",329Vibrava.png,Bug,Ground,0.5
 329,330,Flygon,"['Ground', 'Dragon']",330Flygon.png,Normal,Ground,0.5
 330,331,Cacnea,['Grass'],331Cacnea.png,Bug,Ground,0.0
 331,332,Cacturne,"['Grass', 'Dark']",332Cacturne.png,Grass,Bug,0.5
 332,333,Swablu,"['Normal', 'Flying']",333Swablu.png,Normal,Water,0.5
 333,334,Altaria,"['Dragon', 'Flying']",334Altaria.png,Flying,Normal,0.5
-334,335,Zangoose,['Normal'],335Zangoose.png,Normal,Bug,1.0
+334,335,Zangoose,['Normal'],335Zangoose.png,Normal,Normal,1.0
 335,336,Seviper,['Poison'],336Seviper.png,Flying,Normal,0.0
-336,337,Lunatone,"['Rock', 'Psychic']",337Lunatone.png,Fire,Bug,0.0
+336,337,Lunatone,"['Rock', 'Psychic']",337Lunatone.png,Fire,Fire,0.0
 337,338,Solrock,"['Rock', 'Psychic']",338Solrock.png,Fire,Bug,0.0
-338,339,Barboach,"['Water', 'Ground']",339Barboach.png,Water,Bug,0.5
+338,339,Barboach,"['Water', 'Ground']",339Barboach.png,Water,Water,0.5
 339,340,Whiscash,"['Water', 'Ground']",340Whiscash.png,Water,Normal,0.5
-340,341,Corphish,['Water'],341Corphish.png,Fire,Bug,0.0
+340,341,Corphish,['Water'],341Corphish.png,Fire,Fire,0.0
 341,342,Crawdaunt,"['Water', 'Dark']",342Crawdaunt.png,Fire,Water,0.5
 342,343,Baltoy,"['Ground', 'Psychic']",343Baltoy.png,Ground,Fire,0.5
 343,344,Claydol,"['Ground', 'Psychic']",344Claydol.png,Ground,Fire,0.5
-344,345,Lileep,"['Rock', 'Grass']",345Lileep.png,Normal,Bug,0.0
+344,345,Lileep,"['Rock', 'Grass']",345Lileep.png,Normal,Normal,0.0
 345,346,Cradily,"['Rock', 'Grass']",346Cradily.png,Grass,Normal,0.5
 346,347,Anorith,"['Rock', 'Bug']",347Anorith.png,Bug,Normal,0.5
 347,348,Armaldo,"['Rock', 'Bug']",348Armaldo.png,Fighting,Dragon,0.0
 348,349,Feebas,['Water'],349Feebas.png,Fire,Water,0.5
-349,350,Milotic,['Water'],350Milotic.png,Water,Bug,1.0
-350,351,Castform,['Normal'],351Castform.png,Normal,Bug,1.0
+349,350,Milotic,['Water'],350Milotic.png,Water,Water,1.0
+350,351,Castform,['Normal'],351Castform.png,Normal,Normal,1.0
 351,352,Kecleon,['Normal'],352Kecleon.png,Fire,Grass,0.0
 352,353,Shuppet,['Ghost'],353Shuppet.png,Water,Normal,0.0
 353,354,Banette,['Ghost'],354Banette.png,Ground,Fighting,0.0
@@ -359,49 +359,49 @@
 357,358,Chimecho,['Psychic'],358Chimecho.png,Psychic,Dark,1.0
 358,359,Absol,['Dark'],359Absol.png,Dark,Water,1.0
 359,360,Wynaut,['Psychic'],360Wynaut.png,Water,Dark,0.0
-360,361,Snorunt,['Ice'],361Snorunt.png,Fire,Bug,0.0
-361,362,Glalie,['Ice'],362Glalie.png,Normal,Bug,0.0
+360,361,Snorunt,['Ice'],361Snorunt.png,Fire,Fire,0.0
+361,362,Glalie,['Ice'],362Glalie.png,Normal,Normal,0.0
 362,363,Spheal,"['Ice', 'Water']",363Spheal.png,Water,Ground,0.5
 363,364,Sealeo,"['Ice', 'Water']",364Sealeo.png,Water,Normal,0.5
 364,365,Walrein,"['Ice', 'Water']",365Walrein.png,Normal,Flying,0.0
-365,366,Clamperl,['Water'],366Clamperl.png,Water,Bug,1.0
+365,366,Clamperl,['Water'],366Clamperl.png,Water,Water,1.0
 366,367,Huntail,['Water'],367Huntail.png,Flying,Water,0.5
-367,368,Gorebyss,['Water'],368Gorebyss.png,Water,Bug,1.0
+367,368,Gorebyss,['Water'],368Gorebyss.png,Water,Water,1.0
 368,369,Relicanth,"['Water', 'Rock']",369Relicanth.png,Ground,Water,0.5
 369,370,Luvdisc,['Water'],370Luvdisc.png,Fire,Normal,0.0
 370,371,Bagon,['Dragon'],371Bagon.png,Normal,Dragon,0.5
 371,372,Shelgon,['Dragon'],372Shelgon.png,Ground,Water,0.0
-372,373,Salamence,"['Dragon', 'Flying']",373Salamence.png,Flying,Bug,0.5
+372,373,Salamence,"['Dragon', 'Flying']",373Salamence.png,Flying,Flying,0.5
 373,374,Beldum,"['Steel', 'Psychic']",374Beldum.png,Water,Steel,0.5
 374,375,Metang,"['Steel', 'Psychic']",375Metang.png,Water,Dark,0.0
 375,376,Metagross,"['Steel', 'Psychic']",376Metagross.png,Ground,Water,0.0
 376,377,Regirock,['Rock'],377Regirock.png,Fairy,Fire,0.0
 377,378,Regice,['Ice'],378Regice.png,Normal,Steel,0.0
 378,379,Registeel,['Steel'],379Registeel.png,Steel,Water,1.0
-379,380,Latias,"['Dragon', 'Psychic']",380Latias.png,Normal,Bug,0.0
+379,380,Latias,"['Dragon', 'Psychic']",380Latias.png,Normal,Normal,0.0
 380,381,Latios,"['Dragon', 'Psychic']",381Latios.png,Normal,Water,0.0
-381,382,Kyogre,['Water'],382Kyogre.png,Water,Bug,1.0
+381,382,Kyogre,['Water'],382Kyogre.png,Water,Water,1.0
 382,383,Groudon,['Ground'],383Groudon.png,Ground,Bug,1.0
 383,384,Rayquaza,"['Dragon', 'Flying']",384Rayquaza.png,Flying,Ground,0.5
 384,385,Jirachi,"['Steel', 'Psychic']",385Jirachi.png,Ground,Bug,0.0
 385,386,Deoxys,['Psychic'],386Deoxys.png,Fire,Fighting,0.0
 386,387,Turtwig,['Grass'],387Turtwig.png,Grass,Fire,1.0
 387,388,Grotle,['Grass'],388Grotle.png,Grass,Bug,1.0
-388,389,Torterra,"['Grass', 'Ground']",389Torterra.png,Grass,Bug,0.5
-389,390,Chimchar,['Fire'],390Chimchar.png,Fire,Bug,1.0
-390,391,Monferno,"['Fire', 'Fighting']",391Monferno.png,Fire,Bug,0.5
-391,392,Infernape,"['Fire', 'Fighting']",392Infernape.png,Fire,Bug,0.5
+388,389,Torterra,"['Grass', 'Ground']",389Torterra.png,Grass,Grass,0.5
+389,390,Chimchar,['Fire'],390Chimchar.png,Fire,Fire,1.0
+390,391,Monferno,"['Fire', 'Fighting']",391Monferno.png,Fire,Fire,0.5
+391,392,Infernape,"['Fire', 'Fighting']",392Infernape.png,Fire,Fire,0.5
 392,393,Piplup,['Water'],393Piplup.png,Water,Normal,1.0
 393,394,Prinplup,['Water'],394Prinplup.png,Dark,Fighting,0.0
 394,395,Empoleon,"['Water', 'Steel']",395Empoleon.png,Water,Dark,0.5
 395,396,Starly,"['Normal', 'Flying']",396Starly.png,Normal,Flying,1.0
 396,397,Staravia,"['Normal', 'Flying']",397Staravia.png,Normal,Dragon,0.5
-397,398,Staraptor,"['Normal', 'Flying']",398Staraptor.png,Normal,Bug,0.5
+397,398,Staraptor,"['Normal', 'Flying']",398Staraptor.png,Normal,Normal,0.5
 398,399,Bidoof,['Normal'],399Bidoof.png,Fire,Ground,0.0
-399,400,Bibarel,"['Normal', 'Water']",400Bibarel.png,Fire,Bug,0.0
-400,401,Kricketot,['Bug'],401Kricketot.png,Fire,Bug,0.5
+399,400,Bibarel,"['Normal', 'Water']",400Bibarel.png,Fire,Fire,0.0
+400,401,Kricketot,['Bug'],401Kricketot.png,Fire,Fire,0.0
 401,402,Kricketune,['Bug'],402Kricketune.png,Fire,Bug,0.5
-402,403,Shinx,['Electric'],403Shinx.png,Normal,Bug,0.0
+402,403,Shinx,['Electric'],403Shinx.png,Normal,Normal,0.0
 403,404,Luxio,['Electric'],404Luxio.png,Ground,Ghost,0.0
 404,405,Luxray,['Electric'],405Luxray.png,Ground,Ghost,0.0
 405,406,Budew,"['Grass', 'Poison']",406Budew.png,Fire,Grass,0.5
@@ -417,20 +417,20 @@
 415,416,Vespiquen,"['Bug', 'Flying']",416Vespiquen.png,Fire,Bug,0.5
 416,417,Pachirisu,['Electric'],417Pachirisu.png,Normal,Bug,0.0
 417,418,Buizel,['Water'],418Buizel.png,Ground,Fire,0.0
-418,419,Floatzel,['Water'],419Floatzel.png,Fire,Bug,0.0
-419,420,Cherubi,['Grass'],420Cherubi.png,Grass,Bug,1.0
-420,421,Cherrim,['Grass'],421Cherrim-Overcast.png,Grass,Bug,1.0
+418,419,Floatzel,['Water'],419Floatzel.png,Fire,Fire,0.0
+419,420,Cherubi,['Grass'],420Cherubi.png,Grass,Grass,1.0
+420,421,Cherrim,['Grass'],421Cherrim-Overcast.png,Grass,Grass,1.0
 421,422,Shellos,['Water'],422Shellos.png,Water,Ground,1.0
 422,423,Gastrodon,"['Water', 'Ground']",423Gastrodon.png,Ground,Bug,0.5
-423,424,Ambipom,['Normal'],424Ambipom.png,Normal,Bug,1.0
+423,424,Ambipom,['Normal'],424Ambipom.png,Normal,Normal,1.0
 424,425,Drifloon,"['Ghost', 'Flying']",425Drifloon.png,Fighting,Fairy,0.0
 425,426,Drifblim,"['Ghost', 'Flying']",426Drifblim.png,Dark,Flying,0.5
 426,427,Buneary,['Normal'],427Buneary.png,Fire,Grass,0.0
 427,428,Lopunny,['Normal'],428Lopunny.png,Fire,Bug,0.0
 428,429,Mismagius,['Ghost'],429Mismagius.png,Normal,Psychic,0.0
 429,430,Honchkrow,"['Dark', 'Flying']",430Honchkrow.png,Water,Flying,0.5
-430,431,Glameow,['Normal'],431Glameow.png,Normal,Bug,1.0
-431,432,Purugly,['Normal'],432Purugly.png,Normal,Bug,1.0
+430,431,Glameow,['Normal'],431Glameow.png,Normal,Normal,1.0
+431,432,Purugly,['Normal'],432Purugly.png,Normal,Normal,1.0
 432,433,Chingling,['Psychic'],433Chingling.png,Fire,Bug,0.0
 433,434,Stunky,"['Poison', 'Dark']",434Stunky.png,Normal,Water,0.0
 434,435,Skuntank,"['Poison', 'Dark']",435Skuntank.png,Water,Ground,0.0
@@ -438,18 +438,18 @@
 436,437,Bronzong,"['Steel', 'Psychic']",437Bronzong.png,Water,Steel,0.5
 437,438,Bonsly,['Rock'],438Bonsly.png,Fire,Grass,0.0
 438,439,Mime Jr.,"['Psychic', 'Fairy']",439Mime_Jr.png,Normal,Psychic,0.5
-439,440,Happiny,['Normal'],440Happiny.png,Normal,Bug,1.0
+439,440,Happiny,['Normal'],440Happiny.png,Normal,Normal,1.0
 440,441,Chatot,"['Normal', 'Flying']",441Chatot.png,Normal,Flying,1.0
 441,442,Spiritomb,"['Ghost', 'Dark']",442Spiritomb.png,Normal,Ground,0.0
 442,443,Gible,"['Dragon', 'Ground']",443Gible.png,Water,Ground,0.5
 443,444,Gabite,"['Dragon', 'Ground']",444Gabite.png,Fighting,Ground,0.5
-444,445,Garchomp,"['Dragon', 'Ground']",445Garchomp.png,Ground,Bug,0.5
+444,445,Garchomp,"['Dragon', 'Ground']",445Garchomp.png,Ground,Ground,0.5
 445,446,Munchlax,['Normal'],446Munchlax.png,Normal,Water,1.0
 446,447,Riolu,['Fighting'],447Riolu.png,Fighting,Normal,1.0
 447,448,Lucario,"['Fighting', 'Steel']",448Lucario.png,Bug,Dark,0.0
-448,449,Hippopotas,['Ground'],449Hippopotas.png,Ground,Bug,1.0
-449,450,Hippowdon,['Ground'],450Hippowdon.png,Ground,Bug,1.0
-450,451,Skorupi,"['Poison', 'Bug']",451Skorupi.png,Normal,Bug,0.5
+448,449,Hippopotas,['Ground'],449Hippopotas.png,Ground,Ground,1.0
+449,450,Hippowdon,['Ground'],450Hippowdon.png,Ground,Ground,1.0
+450,451,Skorupi,"['Poison', 'Bug']",451Skorupi.png,Normal,Normal,0.0
 451,452,Drapion,"['Poison', 'Dark']",452Drapion.png,Water,Dark,0.5
 452,453,Croagunk,"['Poison', 'Fighting']",453Croagunk.png,Dark,Water,0.0
 453,454,Toxicroak,"['Poison', 'Fighting']",454Toxicroak.png,Dark,Fighting,0.5
@@ -458,20 +458,20 @@
 456,457,Lumineon,['Water'],457Lumineon.png,Normal,Water,0.5
 457,458,Mantyke,"['Water', 'Flying']",458Mantyke.png,Water,Flying,1.0
 458,459,Snover,"['Grass', 'Ice']",459Snover.png,Normal,Water,0.0
-459,460,Abomasnow,"['Grass', 'Ice']",460Abomasnow.png,Normal,Bug,0.0
+459,460,Abomasnow,"['Grass', 'Ice']",460Abomasnow.png,Normal,Normal,0.0
 460,461,Weavile,"['Dark', 'Ice']",461Weavile.png,Dark,Fighting,0.5
 461,462,Magnezone,"['Electric', 'Steel']",462Magnezone.png,Steel,Water,0.5
 462,463,Lickilicky,['Normal'],463Lickilicky.png,Fire,Ground,0.0
 463,464,Rhyperior,"['Ground', 'Rock']",464Rhyperior.png,Ground,Fire,0.5
 464,465,Tangrowth,['Grass'],465Tangrowth.png,Normal,Dark,0.0
 465,466,Electivire,['Electric'],466Electivire.png,Ground,Bug,0.0
-466,467,Magmortar,['Fire'],467Magmortar.png,Fire,Bug,1.0
+466,467,Magmortar,['Fire'],467Magmortar.png,Fire,Fire,1.0
 467,468,Togekiss,"['Fairy', 'Flying']",468Togekiss.png,Water,Flying,0.5
 468,469,Yanmega,"['Bug', 'Flying']",469Yanmega.png,Normal,Flying,0.5
 469,470,Leafeon,['Grass'],470Leafeon.png,Grass,Normal,1.0
 470,471,Glaceon,['Ice'],471Glaceon.png,Water,Steel,0.0
 471,472,Gliscor,"['Ground', 'Flying']",472Gliscor.png,Normal,Flying,0.5
-472,473,Mamoswine,"['Ice', 'Ground']",473Mamoswine.png,Ground,Bug,0.5
+472,473,Mamoswine,"['Ice', 'Ground']",473Mamoswine.png,Ground,Ground,0.5
 473,474,Porygon-Z,['Normal'],474Porygon-Z.png,Normal,Bug,1.0
 474,475,Gallade,"['Psychic', 'Fighting']",475Gallade.png,Fighting,Dark,0.5
 475,476,Probopass,"['Rock', 'Steel']",476Probopass.png,Fire,Fighting,0.0
@@ -487,32 +487,32 @@
 485,486,Regigigas,['Normal'],486Regigigas.png,Normal,Ground,1.0
 486,487,Giratina,"['Ghost', 'Dragon']",487Giratina-Altered.png,Fire,Fighting,0.0
 487,488,Cresselia,['Psychic'],488Cresselia.png,Normal,Water,0.0
-488,489,Phione,['Water'],489Phione.png,Water,Bug,1.0
+488,489,Phione,['Water'],489Phione.png,Water,Water,1.0
 489,490,Manaphy,['Water'],490Manaphy.png,Water,Ground,1.0
 490,491,Darkrai,['Dark'],491Darkrai.png,Normal,Dark,0.5
 491,492,Shaymin,['Grass'],492Shaymin-Land.png,Grass,Bug,1.0
 492,493,Arceus,['Normal'],493Arceus.png,Normal,Grass,1.0
-493,494,Victini,"['Psychic', 'Fire']",494Victini.png,Fire,Bug,0.5
-494,495,Snivy,['Grass'],495Snivy.png,Grass,Bug,1.0
+493,494,Victini,"['Psychic', 'Fire']",494Victini.png,Fire,Fire,0.5
+494,495,Snivy,['Grass'],495Snivy.png,Grass,Grass,1.0
 495,496,Servine,['Grass'],496Servine.png,Grass,Bug,1.0
 496,497,Serperior,['Grass'],497Serperior.png,Grass,Normal,1.0
-497,498,Tepig,['Fire'],498Tepig.png,Fire,Bug,1.0
-498,499,Pignite,"['Fire', 'Fighting']",499Pignite.png,Fire,Bug,0.5
-499,500,Emboar,"['Fire', 'Fighting']",500Emboar.png,Fire,Bug,0.5
+497,498,Tepig,['Fire'],498Tepig.png,Fire,Fire,1.0
+498,499,Pignite,"['Fire', 'Fighting']",499Pignite.png,Fire,Fire,0.5
+499,500,Emboar,"['Fire', 'Fighting']",500Emboar.png,Fire,Fire,0.5
 500,501,Oshawott,['Water'],501Oshawott.png,Water,Normal,1.0
 501,502,Dewott,['Water'],502Dewott.png,Water,Psychic,1.0
 502,503,Samurott,['Water'],503Samurott.png,Water,Dark,1.0
-503,504,Patrat,['Normal'],504Patrat.png,Normal,Bug,1.0
+503,504,Patrat,['Normal'],504Patrat.png,Normal,Normal,1.0
 504,505,Watchog,['Normal'],505Watchog.png,Fire,Bug,0.0
 505,506,Lillipup,['Normal'],506Lillipup.png,Fire,Normal,0.5
-506,507,Herdier,['Normal'],507Herdier.png,Normal,Bug,1.0
+506,507,Herdier,['Normal'],507Herdier.png,Normal,Normal,1.0
 507,508,Stoutland,['Normal'],508Stoutland.png,Flying,Normal,0.5
 508,509,Purrloin,['Dark'],509Purrloin.png,Dark,Normal,1.0
 509,510,Liepard,['Dark'],510Liepard.png,Dark,Fighting,1.0
-510,511,Pansage,['Grass'],511Pansage.png,Grass,Bug,1.0
-511,512,Simisage,['Grass'],512Simisage.png,Grass,Bug,1.0
-512,513,Pansear,['Fire'],513Pansear.png,Fire,Bug,1.0
-513,514,Simisear,['Fire'],514Simisear.png,Fire,Bug,1.0
+510,511,Pansage,['Grass'],511Pansage.png,Grass,Grass,1.0
+511,512,Simisage,['Grass'],512Simisage.png,Grass,Grass,1.0
+512,513,Pansear,['Fire'],513Pansear.png,Fire,Fire,1.0
+513,514,Simisear,['Fire'],514Simisear.png,Fire,Fire,1.0
 514,515,Panpour,['Water'],515Panpour.png,Water,Fire,1.0
 515,516,Simipour,['Water'],516Simipour.png,Water,Ground,1.0
 516,517,Munna,['Psychic'],517Munna.png,Normal,Dark,0.0
@@ -528,7 +528,7 @@
 526,527,Woobat,"['Psychic', 'Flying']",527Woobat.png,Flying,Water,0.5
 527,528,Swoobat,"['Psychic', 'Flying']",528Swoobat.png,Flying,Normal,0.5
 528,529,Drilbur,['Ground'],529Drilbur.png,Flying,Normal,0.0
-529,530,Excadrill,"['Ground', 'Steel']",530Excadrill.png,Ground,Bug,0.5
+529,530,Excadrill,"['Ground', 'Steel']",530Excadrill.png,Ground,Ground,0.5
 530,531,Audino,['Normal'],531Audino.png,Normal,Fire,1.0
 531,532,Timburr,['Fighting'],532Timburr.png,Fire,Ground,0.0
 532,533,Gurdurr,['Fighting'],533Gurdurr.png,Normal,Flying,0.0
@@ -546,13 +546,13 @@
 544,545,Scolipede,"['Bug', 'Poison']",545Scolipede.png,Normal,Dark,0.0
 545,546,Cottonee,"['Grass', 'Fairy']",546Cottonee.png,Bug,Ground,0.0
 546,547,Whimsicott,"['Grass', 'Fairy']",547Whimsicott.png,Grass,Fire,0.5
-547,548,Petilil,['Grass'],548Petilil.png,Grass,Bug,1.0
+547,548,Petilil,['Grass'],548Petilil.png,Grass,Grass,1.0
 548,549,Lilligant,['Grass'],549Lilligant.png,Grass,Bug,1.0
 549,550,Basculin,['Water'],550Basculin.png,Water,Grass,1.0
-550,551,Sandile,"['Ground', 'Dark']",551Sandile.png,Ground,Bug,0.5
+550,551,Sandile,"['Ground', 'Dark']",551Sandile.png,Ground,Ground,0.5
 551,552,Krokorok,"['Ground', 'Dark']",552Krokorok.png,Fire,Fighting,0.0
 552,553,Krookodile,"['Ground', 'Dark']",553Krookodile.png,Ground,Fighting,0.5
-553,554,Darumaka,['Fire'],554Darumaka.png,Fire,Bug,1.0
+553,554,Darumaka,['Fire'],554Darumaka.png,Fire,Fire,1.0
 554,555,Darmanitan,['Fire'],555Darmanitan.png,Fire,Ground,1.0
 555,556,Maractus,['Grass'],556Maractus.png,Bug,Grass,0.5
 556,557,Dwebble,"['Bug', 'Rock']",557Dwebble.png,Ground,Fire,0.0
@@ -571,8 +571,8 @@
 569,570,Zorua,['Dark'],570Zorua.png,Normal,Dark,0.5
 570,571,Zoroark,['Dark'],571Zoroark.png,Fire,Fighting,0.0
 571,572,Minccino,['Normal'],572Minccino.png,Normal,Ground,1.0
-572,573,Cinccino,['Normal'],573Cinccino.png,Normal,Bug,1.0
-573,574,Gothita,['Psychic'],574Gothita.png,Normal,Bug,0.0
+572,573,Cinccino,['Normal'],573Cinccino.png,Normal,Normal,1.0
+573,574,Gothita,['Psychic'],574Gothita.png,Normal,Normal,0.0
 574,575,Gothorita,['Psychic'],575Gothorita.png,Normal,Grass,0.0
 575,576,Gothitelle,['Psychic'],576Gothitelle.png,Bug,Normal,0.0
 576,577,Solosis,['Psychic'],577Solosis.png,Normal,Grass,0.0
@@ -582,21 +582,21 @@
 580,581,Swanna,"['Water', 'Flying']",581Swanna.png,Water,Flying,1.0
 581,582,Vanillite,['Ice'],582Vanillite.png,Dark,Psychic,0.0
 582,583,Vanillish,['Ice'],583Vanillish.png,Psychic,Normal,0.0
-583,584,Vanilluxe,['Ice'],584Vanilluxe.png,Normal,Bug,0.0
+583,584,Vanilluxe,['Ice'],584Vanilluxe.png,Normal,Normal,0.0
 584,585,Deerling,"['Normal', 'Grass']",585Deerling-Spring.png,Normal,Grass,1.0
 585,586,Sawsbuck,"['Normal', 'Grass']",586Sawsbuck-Spring.png,Fire,Bug,0.0
-586,587,Emolga,"['Electric', 'Flying']",587Emolga.png,Ground,Bug,0.0
-587,588,Karrablast,['Bug'],588Karrablast.png,Fire,Bug,0.5
+586,587,Emolga,"['Electric', 'Flying']",587Emolga.png,Ground,Ground,0.0
+587,588,Karrablast,['Bug'],588Karrablast.png,Fire,Fire,0.0
 588,589,Escavalier,"['Bug', 'Steel']",589Escavalier.png,Fire,Bug,0.5
-589,590,Foongus,"['Grass', 'Poison']",590Foongus.png,Normal,Bug,0.0
+589,590,Foongus,"['Grass', 'Poison']",590Foongus.png,Normal,Normal,0.0
 590,591,Amoonguss,"['Grass', 'Poison']",591Amoonguss.png,Normal,Grass,0.5
-591,592,Frillish,"['Water', 'Ghost']",592Frillish.png,Water,Bug,0.5
+591,592,Frillish,"['Water', 'Ghost']",592Frillish.png,Water,Water,0.5
 592,593,Jellicent,"['Water', 'Ghost']",593Jellicent.png,Water,Ground,0.5
 593,594,Alomomola,['Water'],594Alomomola.png,Fire,Fairy,0.0
 594,595,Joltik,"['Bug', 'Electric']",595Joltik.png,Fire,Ground,0.0
 595,596,Galvantula,"['Bug', 'Electric']",596Galvantula.png,Ground,Bug,0.5
 596,597,Ferroseed,"['Grass', 'Steel']",597Ferroseed.png,Grass,Bug,0.5
-597,598,Ferrothorn,"['Grass', 'Steel']",598Ferrothorn.png,Normal,Bug,0.0
+597,598,Ferrothorn,"['Grass', 'Steel']",598Ferrothorn.png,Normal,Normal,0.0
 598,599,Klink,['Steel'],599Klink.png,Water,Steel,0.5
 599,600,Klang,['Steel'],600Klang.png,Steel,Water,1.0
 600,601,Klinklang,['Steel'],601Klinklang.png,Water,Steel,0.5
@@ -617,15 +617,15 @@
 615,616,Shelmet,['Bug'],616Shelmet.png,Normal,Flying,0.0
 616,617,Accelgor,['Bug'],617Accelgor.png,Normal,Flying,0.0
 617,618,Stunfisk,"['Ground', 'Electric']",618Stunfisk.png,Ground,Bug,0.5
-618,619,Mienfoo,['Fighting'],619Mienfoo.png,Fire,Bug,0.0
+618,619,Mienfoo,['Fighting'],619Mienfoo.png,Fire,Fire,0.0
 619,620,Mienshao,['Fighting'],620Mienshao.png,Fighting,Dark,1.0
-620,621,Druddigon,['Dragon'],621Druddigon.png,Water,Bug,0.0
+620,621,Druddigon,['Dragon'],621Druddigon.png,Water,Water,0.0
 621,622,Golett,"['Ground', 'Ghost']",622Golett.png,Ground,Fighting,0.5
 622,623,Golurk,"['Ground', 'Ghost']",623Golurk.png,Normal,Ground,0.5
 623,624,Pawniard,"['Dark', 'Steel']",624Pawniard.png,Normal,Dark,0.5
 624,625,Bisharp,"['Dark', 'Steel']",625Bisharp.png,Fire,Fighting,0.0
 625,626,Bouffalant,['Normal'],626Bouffalant.png,Ground,Normal,0.5
-626,627,Rufflet,"['Normal', 'Flying']",627Rufflet.png,Normal,Bug,0.5
+626,627,Rufflet,"['Normal', 'Flying']",627Rufflet.png,Normal,Normal,0.5
 627,628,Braviary,"['Normal', 'Flying']",628Braviary.png,Flying,Normal,1.0
 628,629,Vullaby,"['Dark', 'Flying']",629Vullaby.png,Normal,Fire,0.0
 629,630,Mandibuzz,"['Dark', 'Flying']",630Mandibuzz.png,Grass,Normal,0.0
@@ -635,13 +635,13 @@
 633,634,Zweilous,"['Dark', 'Dragon']",634Zweilous.png,Dark,Dragon,1.0
 634,635,Hydreigon,"['Dark', 'Dragon']",635Hydreigon.png,Normal,Flying,0.0
 635,636,Larvesta,"['Bug', 'Fire']",636Larvesta.png,Fire,Ground,0.5
-636,637,Volcarona,"['Bug', 'Fire']",637Volcarona.png,Fire,Bug,1.0
+636,637,Volcarona,"['Bug', 'Fire']",637Volcarona.png,Fire,Fire,0.5
 637,638,Cobalion,"['Steel', 'Fighting']",638Cobalion.png,Dark,Normal,0.0
 638,639,Terrakion,"['Rock', 'Fighting']",639Terrakion.png,Fire,Ground,0.0
 639,640,Virizion,"['Grass', 'Fighting']",640Virizion.png,Grass,Bug,0.5
 640,641,Tornadus,['Flying'],641Tornadus.png,Flying,Normal,1.0
 641,642,Thundurus,"['Electric', 'Flying']",642Thundurus.png,Steel,Dark,0.0
-642,643,Reshiram,"['Dragon', 'Fire']",643Reshiram.png,Normal,Bug,0.0
+642,643,Reshiram,"['Dragon', 'Fire']",643Reshiram.png,Normal,Normal,0.0
 643,644,Zekrom,"['Dragon', 'Electric']",644Zekrom.png,Normal,Dragon,0.5
 644,645,Landorus,"['Ground', 'Flying']",645Landorus.png,Fire,Ground,0.5
 645,646,Kyurem,"['Dragon', 'Ice']",646Kyurem.png,Normal,Flying,0.0
@@ -651,13 +651,13 @@
 649,650,Chespin,['Grass'],650Chespin.png,Fire,Grass,0.5
 650,651,Quilladin,['Grass'],651Quilladin.png,Grass,Bug,1.0
 651,652,Chesnaught,"['Grass', 'Fighting']",652Chesnaught.png,Bug,Grass,0.5
-652,653,Fennekin,['Fire'],653Fennekin.png,Fire,Bug,1.0
-653,654,Braixen,['Fire'],654Braixen.png,Fire,Bug,1.0
-654,655,Delphox,"['Fire', 'Psychic']",655Delphox.png,Fire,Bug,0.5
+652,653,Fennekin,['Fire'],653Fennekin.png,Fire,Fire,1.0
+653,654,Braixen,['Fire'],654Braixen.png,Fire,Fire,1.0
+654,655,Delphox,"['Fire', 'Psychic']",655Delphox.png,Fire,Fire,0.5
 655,656,Froakie,['Water'],656Froakie.png,Normal,Water,0.5
 656,657,Frogadier,['Water'],657Frogadier.png,Water,Dark,1.0
 657,658,Greninja,"['Water', 'Dark']",658Greninja.png,Water,Flying,0.5
-658,659,Bunnelby,['Normal'],659Bunnelby.png,Normal,Bug,1.0
+658,659,Bunnelby,['Normal'],659Bunnelby.png,Normal,Normal,1.0
 659,660,Diggersby,"['Normal', 'Ground']",660Diggersby.png,Normal,Ground,1.0
 660,661,Fletchling,"['Normal', 'Flying']",661Fletchling.png,Flying,Normal,1.0
 661,662,Fletchinder,"['Fire', 'Flying']",662Fletchinder.png,Flying,Normal,0.5
@@ -666,17 +666,17 @@
 664,665,Spewpa,['Bug'],665Spewpa.png,Bug,Normal,1.0
 665,666,Vivillon,"['Bug', 'Flying']",666Vivillon.png,Flying,Normal,0.5
 666,667,Litleo,"['Fire', 'Normal']",667Litleo.png,Normal,Fire,1.0
-667,668,Pyroar,"['Fire', 'Normal']",668Pyroar.png,Fire,Bug,0.5
+667,668,Pyroar,"['Fire', 'Normal']",668Pyroar.png,Fire,Fire,0.5
 668,669,Flabébé,['Fairy'],669Flab%C3%A9b%C3%A9.png,Fire,Bug,0.0
 669,670,Floette,['Fairy'],670Floette.png,Normal,Grass,0.0
 670,671,Florges,['Fairy'],671Florges.png,Normal,Grass,0.0
-671,672,Skiddo,['Grass'],672Skiddo.png,Grass,Bug,1.0
-672,673,Gogoat,['Grass'],673Gogoat.png,Grass,Bug,1.0
+671,672,Skiddo,['Grass'],672Skiddo.png,Grass,Grass,1.0
+672,673,Gogoat,['Grass'],673Gogoat.png,Grass,Grass,1.0
 673,674,Pancham,['Fighting'],674Pancham.png,Grass,Normal,0.0
 674,675,Pangoro,"['Fighting', 'Dark']",675Pangoro.png,Dark,Fighting,1.0
-675,676,Furfrou,['Normal'],676Furfrou.png,Normal,Bug,1.0
+675,676,Furfrou,['Normal'],676Furfrou.png,Normal,Normal,1.0
 676,677,Espurr,['Psychic'],677Espurr.png,Normal,Psychic,0.5
-677,678,Meowstic,['Psychic'],678Meowstic.png,Water,Bug,0.0
+677,678,Meowstic,['Psychic'],678Meowstic.png,Water,Water,0.0
 678,679,Honedge,"['Steel', 'Ghost']",679Honedge.png,Fighting,Dragon,0.0
 679,680,Doublade,"['Steel', 'Ghost']",680Doublade.png,Ground,Ghost,0.5
 680,681,Aegislash,"['Steel', 'Ghost']",681Aegislash.png,Ground,Ghost,0.5
@@ -685,23 +685,23 @@
 683,684,Swirlix,['Fairy'],684Swirlix.png,Normal,Fairy,0.5
 684,685,Slurpuff,['Fairy'],685Slurpuff.png,Fire,Water,0.0
 685,686,Inkay,"['Dark', 'Psychic']",686Inkay.png,Fighting,Steel,0.0
-686,687,Malamar,"['Dark', 'Psychic']",687Malamar.png,Dark,Bug,0.5
-687,688,Binacle,"['Rock', 'Water']",688Binacle.png,Normal,Bug,0.0
+686,687,Malamar,"['Dark', 'Psychic']",687Malamar.png,Dark,Dark,0.5
+687,688,Binacle,"['Rock', 'Water']",688Binacle.png,Normal,Normal,0.0
 688,689,Barbaracle,"['Rock', 'Water']",689Barbaracle.png,Fire,Water,0.5
 689,690,Skrelp,"['Poison', 'Water']",690Skrelp.png,Fire,Water,0.5
 690,691,Dragalge,"['Poison', 'Dragon']",691Dragalge.png,Normal,Fire,0.0
-691,692,Clauncher,['Water'],692Clauncher.png,Water,Bug,1.0
+691,692,Clauncher,['Water'],692Clauncher.png,Water,Water,1.0
 692,693,Clawitzer,['Water'],693Clawitzer.png,Water,Bug,1.0
 693,694,Helioptile,"['Electric', 'Normal']",694Helioptile.png,Ground,Bug,0.0
 694,695,Heliolisk,"['Electric', 'Normal']",695Heliolisk.png,Ground,Fire,0.0
 695,696,Tyrunt,"['Rock', 'Dragon']",696Tyrunt.png,Normal,Dragon,0.5
-696,697,Tyrantrum,"['Rock', 'Dragon']",697Tyrantrum.png,Normal,Bug,0.0
+696,697,Tyrantrum,"['Rock', 'Dragon']",697Tyrantrum.png,Normal,Normal,0.0
 697,698,Amaura,"['Rock', 'Ice']",698Amaura.png,Dark,Fighting,0.0
 698,699,Aurorus,"['Rock', 'Ice']",699Aurorus.png,Fighting,Normal,0.0
 699,700,Sylveon,['Fairy'],700Sylveon.png,Normal,Fire,0.0
 700,701,Hawlucha,"['Fighting', 'Flying']",701Hawlucha.png,Fighting,Bug,0.5
 701,702,Dedenne,"['Electric', 'Fairy']",702Dedenne.png,Fire,Ground,0.0
-702,703,Carbink,"['Rock', 'Fairy']",703Carbink.png,Normal,Bug,0.0
+702,703,Carbink,"['Rock', 'Fairy']",703Carbink.png,Normal,Normal,0.0
 703,704,Goomy,['Dragon'],704Goomy.png,Normal,Dragon,0.5
 704,705,Sliggoo,['Dragon'],705Sliggoo.png,Grass,Bug,0.0
 705,706,Goodra,['Dragon'],706Goodra.png,Normal,Water,0.0
@@ -719,22 +719,22 @@
 717,718,Zygarde,"['Dragon', 'Ground']",718Zygarde.png,Ground,Fire,0.5
 718,719,Diancie,"['Rock', 'Fairy']",719Diancie.png,Fairy,Normal,0.5
 719,720,Hoopa,"['Psychic', 'Ghost']",720Hoopa.png,Fighting,Dragon,0.0
-720,721,Volcanion,"['Fire', 'Water']",721Volcanion.png,Fire,Bug,0.5
+720,721,Volcanion,"['Fire', 'Water']",721Volcanion.png,Fire,Fire,0.5
 721,722,Rowlet,"['Grass', 'Flying']",722Rowlet.png,Grass,Normal,0.5
 722,723,Dartrix,"['Grass', 'Flying']",723Dartrix.png,Ground,Fighting,0.0
-723,724,Decidueye,"['Grass', 'Ghost']",724Decidueye.png,Ground,Bug,0.0
-724,725,Litten,['Fire'],725Litten.png,Fire,Bug,1.0
-725,726,Torracat,['Fire'],726Torracat.png,Fire,Bug,1.0
-726,727,Incineroar,"['Fire', 'Dark']",727Incineroar.png,Fire,Bug,0.5
+723,724,Decidueye,"['Grass', 'Ghost']",724Decidueye.png,Ground,Ground,0.0
+724,725,Litten,['Fire'],725Litten.png,Fire,Fire,1.0
+725,726,Torracat,['Fire'],726Torracat.png,Fire,Fire,1.0
+726,727,Incineroar,"['Fire', 'Dark']",727Incineroar.png,Fire,Fire,0.5
 727,728,Popplio,['Water'],728Popplio.png,Water,Dark,1.0
-728,729,Brionne,['Water'],729Brionne.png,Water,Bug,1.0
+728,729,Brionne,['Water'],729Brionne.png,Water,Water,1.0
 729,730,Primarina,"['Water', 'Fairy']",730Primarina.png,Water,Normal,0.5
 730,731,Pikipek,"['Normal', 'Flying']",731Pikipek.png,Normal,Flying,1.0
-731,732,Trumbeak,"['Normal', 'Flying']",732Trumbeak.png,Normal,Bug,0.5
+731,732,Trumbeak,"['Normal', 'Flying']",732Trumbeak.png,Normal,Normal,0.5
 732,733,Toucannon,"['Normal', 'Flying']",733Toucannon.png,Normal,Grass,0.5
 733,734,Yungoos,['Normal'],734Yungoos.png,Ground,Flying,0.0
-734,735,Gumshoos,['Normal'],735Gumshoos.png,Normal,Bug,1.0
-735,736,Grubbin,['Bug'],736Grubbin.png,Ground,Bug,0.5
+734,735,Gumshoos,['Normal'],735Gumshoos.png,Normal,Normal,1.0
+735,736,Grubbin,['Bug'],736Grubbin.png,Ground,Ground,0.0
 736,737,Charjabug,"['Bug', 'Electric']",737Charjabug.png,Bug,Normal,0.5
 737,738,Vikavolt,"['Bug', 'Electric']",738Vikavolt.png,Ground,Bug,0.5
 738,739,Crabrawler,['Fighting'],739Crabrawler.png,Ground,Fighting,0.5
@@ -744,9 +744,9 @@
 742,743,Ribombee,"['Bug', 'Fairy']",743Ribombee.png,Fire,Flying,0.0
 743,744,Rockruff,['Rock'],744Rockruff.png,Normal,Grass,0.0
 744,745,Lycanroc,['Rock'],745Lycanroc.png,Ground,Ghost,0.0
-745,746,Wishiwashi,['Water'],746Wishiwashi-Solo.png,Water,Bug,1.0
-746,747,Mareanie,"['Poison', 'Water']",747Mareanie.png,Water,Bug,0.5
-747,748,Toxapex,"['Poison', 'Water']",748Toxapex.png,Water,Bug,0.5
+745,746,Wishiwashi,['Water'],746Wishiwashi-Solo.png,Water,Water,1.0
+746,747,Mareanie,"['Poison', 'Water']",747Mareanie.png,Water,Water,0.5
+747,748,Toxapex,"['Poison', 'Water']",748Toxapex.png,Water,Water,0.5
 748,749,Mudbray,['Ground'],749Mudbray.png,Ground,Fire,1.0
 749,750,Mudsdale,['Ground'],750Mudsdale.png,Ground,Fire,1.0
 750,751,Dewpider,"['Water', 'Bug']",751Dewpider.png,Fire,Water,0.5
@@ -757,25 +757,25 @@
 755,756,Shiinotic,"['Grass', 'Fairy']",756Shiinotic.png,Grass,Normal,0.5
 756,757,Salandit,"['Poison', 'Fire']",757Salandit.png,Fire,Bug,0.5
 757,758,Salazzle,"['Poison', 'Fire']",758Salazzle.png,Fire,Water,0.5
-758,759,Stufful,"['Normal', 'Fighting']",759Stufful.png,Normal,Bug,0.5
+758,759,Stufful,"['Normal', 'Fighting']",759Stufful.png,Normal,Normal,0.5
 759,760,Bewear,"['Normal', 'Fighting']",760Bewear.png,Normal,Grass,0.5
 760,761,Bounsweet,['Grass'],761Bounsweet.png,Normal,Grass,0.5
 761,762,Steenee,['Grass'],762Steenee.png,Grass,Normal,1.0
 762,763,Tsareena,['Grass'],763Tsareena.png,Grass,Fire,1.0
 763,764,Comfey,['Fairy'],764Comfey.png,Fire,Normal,0.0
-764,765,Oranguru,"['Normal', 'Psychic']",765Oranguru.png,Normal,Bug,0.5
+764,765,Oranguru,"['Normal', 'Psychic']",765Oranguru.png,Normal,Normal,0.5
 765,766,Passimian,['Fighting'],766Passimian.png,Fighting,Water,1.0
 766,767,Wimpod,"['Bug', 'Water']",767Wimpod.png,Water,Ground,0.5
 767,768,Golisopod,"['Bug', 'Water']",768Golisopod.png,Water,Normal,0.5
 768,769,Sandygast,"['Ghost', 'Ground']",769Sandygast.png,Ground,Fire,0.5
-769,770,Palossand,"['Ghost', 'Ground']",770Palossand.png,Ground,Bug,0.5
+769,770,Palossand,"['Ghost', 'Ground']",770Palossand.png,Ground,Ground,0.5
 770,771,Pyukumuku,['Water'],771Pyukumuku.png,Ground,Water,0.5
 771,772,Type: Null,['Normal'],772Type_Null.png,Normal,Bug,1.0
 772,773,Silvally,['Normal'],773Silvally.png,Dragon,Water,0.0
 773,774,Minior,"['Rock', 'Flying']",774Minior.png,Normal,Ground,0.0
-774,775,Komala,['Normal'],775Komala.png,Normal,Bug,1.0
-775,776,Turtonator,"['Fire', 'Dragon']",776Turtonator.png,Fire,Bug,0.5
-776,777,Togedemaru,"['Electric', 'Steel']",777Togedemaru.png,Normal,Bug,0.0
+774,775,Komala,['Normal'],775Komala.png,Normal,Normal,1.0
+775,776,Turtonator,"['Fire', 'Dragon']",776Turtonator.png,Fire,Fire,0.5
+776,777,Togedemaru,"['Electric', 'Steel']",777Togedemaru.png,Normal,Normal,0.0
 777,778,Mimikyu,"['Ghost', 'Fairy']",778Mimikyu.png,Fire,Ground,0.0
 778,779,Bruxish,"['Water', 'Psychic']",779Bruxish.png,Water,Ground,0.5
 779,780,Drampa,"['Normal', 'Dragon']",780Drampa.png,Normal,Water,0.5
@@ -789,7 +789,7 @@
 787,788,Tapu Fini,"['Water', 'Fairy']",788Tapu_Fini.png,Normal,Water,0.5
 788,789,Cosmog,['Psychic'],789Cosmog.png,Normal,Flying,0.0
 789,790,Cosmoem,['Psychic'],790Cosmoem.png,Normal,Bug,0.0
-790,791,Solgaleo,"['Psychic', 'Steel']",791Solgaleo.png,Normal,Bug,0.0
+790,791,Solgaleo,"['Psychic', 'Steel']",791Solgaleo.png,Normal,Normal,0.0
 791,792,Lunala,"['Psychic', 'Ghost']",792Lunala.png,Normal,Water,0.0
 792,793,Nihilego,"['Rock', 'Poison']",793Nihilego.png,Normal,Dark,0.0
 793,794,Buzzwole,"['Bug', 'Fighting']",794Buzzwole.png,Fire,Bug,0.5
@@ -797,14 +797,14 @@
 795,796,Xurkitree,['Electric'],796Xurkitree.png,Bug,Normal,0.0
 796,797,Celesteela,"['Steel', 'Flying']",797Celesteela.png,Water,Ground,0.0
 797,798,Kartana,"['Grass', 'Steel']",798Kartana.png,Bug,Grass,0.5
-798,799,Guzzlord,"['Dark', 'Dragon']",799Guzzlord.png,Water,Bug,0.0
+798,799,Guzzlord,"['Dark', 'Dragon']",799Guzzlord.png,Water,Water,0.0
 799,800,Necrozma,['Psychic'],800Necrozma.png,Water,Dark,0.0
 800,801,Magearna,"['Steel', 'Fairy']",801Magearna.png,Grass,Normal,0.0
 801,802,Marshadow,"['Fighting', 'Ghost']",802Marshadow.png,Fighting,Dark,0.5
 802,803,Poipole,['Poison'],803Poipole.png,Water,Dark,0.0
-803,804,Naganadel,"['Poison', 'Dragon']",804Naganadel.png,Water,Bug,0.0
+803,804,Naganadel,"['Poison', 'Dragon']",804Naganadel.png,Water,Water,0.0
 804,805,Stakataka,"['Rock', 'Steel']",805Stakataka.png,Fighting,Water,0.0
 805,806,Blacephalon,"['Fire', 'Ghost']",806Blacephalon.png,Normal,Dragon,0.0
-806,807,Zeraora,['Electric'],807Zeraora.png,Ground,Bug,0.0
-807,808,Meltan,['Steel'],808Meltan.png,Fire,Bug,0.0
+806,807,Zeraora,['Electric'],807Zeraora.png,Ground,Ground,0.0
+807,808,Meltan,['Steel'],808Meltan.png,Fire,Fire,0.0
 808,809,Melmetal,['Steel'],809Melmetal.png,Ground,Ghost,0.0

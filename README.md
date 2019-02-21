@@ -17,6 +17,8 @@ Several models were trained to find the best fit for the unique needs of Pokémo
 
 Two hidden layers were determined to be sufficient to prevent the model from getting stuck guessing only the two most common types.
 
-Droping nodes had better results than batch normalization.
+Dropping nodes had better results than batch normalization.
 
 The results were very color-dependent, so a grayscale model was also developed to see what progress could be made based on shapes. It was vastly less progress.
+
+More considerations may be seen on the [Model Analysis page of Sugimachine](https://sugimachine.herokuapp.com/analysis)
